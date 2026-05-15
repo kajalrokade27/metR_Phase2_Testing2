@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1633" xml:lang="en-us">
+  <title>Time Period</title>
+  <shortdesc>The period for which capital is brought in may vary. Equity capital cannot be taken</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>period</keyword>
+        <keyword>capital</keyword>
+        <keyword>Time</keyword>
+        <keyword>Period</keyword>
+        <keyword>brought</keyword>
+        <keyword>which</keyword>
+        <indexterm>period</indexterm>
+        <indexterm>capital</indexterm>
+        <indexterm>Time</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The period for which capital is brought in may vary. Equity capital cannot be taken out of the firm unless the firm is liquidated. Such capital is for perpetuity.</p>
+    <p>Debt has to be repaid by the company after a certain period. The period of repayment may be short-term (less than one year) or long-term (more than one year and may go up to even 30 years or more) and is decided at the time such funds are brought in.</p>
+  </conbody>
+</concept>

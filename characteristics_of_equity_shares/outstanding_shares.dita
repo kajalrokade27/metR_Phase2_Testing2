@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3145" xml:lang="en-us">
+  <title>Outstanding shares</title>
+  <shortdesc>refer to the total number of shares issued by the company to its investors (including</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>capital</keyword>
+        <keyword>Crore</keyword>
+        <keyword>shares</keyword>
+        <keyword>Outstanding</keyword>
+        <keyword>issued</keyword>
+        <keyword>company</keyword>
+        <indexterm>capital</indexterm>
+        <indexterm>Crore</indexterm>
+        <indexterm>shares</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Outstanding shares refer to the total number of shares issued by the company to its investors (including retail and institutions).</p>
+    <p>
+      <b>Example:</b> A company decides that the maximum equity capital it needs is Rs. 20 crore. In the initial stages, the need is Rs.10 crore. It issues equity shares of Rs.10 face value, at par. Investors are required to pay Rs.5 per share with application, Rs. 5 after 6 months. What is the authorised, issued and paid-up capital of the company, before the issue, after allotment and after 6 months? What is the number of outstanding shares of the company?</p>
+    <p>Before the issue:</p>
+    <p>Authorised capital: Rs. 20 Crore</p>
+    <p>After allotment:</p>
+    <p>Authorised capital: Rs.20 Crore</p>
+    <p>Issued capital: Rs.10 Crore</p>
+    <p>Paid up capital: Rs.5 Crore</p>
+    <p>After 6 months:</p>
+    <p>Authorised capital: Rs. 20 Crore</p>
+    <p>Issued capital: Rs.10 Crore</p>
+    <p>Paid up capital: Rs.10 Crore</p>
+    <p>Number of Outstanding Shares: 1 crore (i.e. Rs. 10 crore/ Rs. 10)</p>
+    <p>One may remember that:</p>
+    <ul id="ul_07255212">
+      <li>Paid up capital is always less than or equal to issued capital;</li>
+      <li>Issued capital is always less than or equal to authorised capital.</li>
+      <li>Authorised capital is the maximum amount that can be issued or paid up.</li>
+    </ul>
+  </conbody>
+</concept>

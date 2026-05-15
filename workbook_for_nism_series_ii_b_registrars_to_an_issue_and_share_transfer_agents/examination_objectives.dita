@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Numd21e1071" xml:lang="en-us">
+  <title>Examination Objectives</title>
+  <shortdesc>On successful completion of the examination the candidate should:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Examination</keyword>
+        <keyword>Objectives</keyword>
+        <keyword>Know</keyword>
+        <keyword>securities</keyword>
+        <keyword>RTAs</keyword>
+        <keyword>successful</keyword>
+        <indexterm>Examination</indexterm>
+        <indexterm>Objectives</indexterm>
+        <indexterm>Know</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>On successful completion of the examination the candidate should:</p>
+    <ul id="ul_07255201">
+      <li>Know the basics of securities and securities markets.</li>
+      <li>Understand broadly the role and functions of the RTAs in the mutual fund issuance and transaction process.</li>
+      <li>Know the regulatory environment in which the RTAs operate in India.</li>
+    </ul>
+  </body>
+</topic>

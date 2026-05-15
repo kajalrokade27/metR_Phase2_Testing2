@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e1161" xml:lang="en-us">
+  <title>How to register and take the examination</title>
+  <shortdesc>To find out more and register for the examination please visit www.nism.ac.in</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>register</keyword>
+        <keyword>examination</keyword>
+        <keyword>please</keyword>
+        <keyword>visit</keyword>
+        <indexterm>register</indexterm>
+        <indexterm>examination</indexterm>
+        <indexterm>please</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>To find out more and register for the examination please visit www.nism.ac.in</p>
+  </context></taskbody>
+</task>

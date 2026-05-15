@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3780" xml:lang="en-us">
+  <title>Characteristics of Debt Securities</title>
+  <shortdesc>LEARNING OBJECTIVES:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Debt</keyword>
+        <keyword>Characteristics</keyword>
+        <keyword>Securities</keyword>
+        <keyword>Features</keyword>
+        <keyword>Market</keyword>
+        <keyword>instruments</keyword>
+        <indexterm>Debt</indexterm>
+        <indexterm>Characteristics</indexterm>
+        <indexterm>Securities</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <b>LEARNING OBJECTIVES:</b>
+    </p>
+    <p>After studying this chapter, you should know about:</p>
+    <ul id="ul_07255215">
+      <li>Features of Debt Security</li>
+      <li>Market value of debt securities</li>
+      <li>Yield to Maturity of debt instruments</li>
+      <li>Types of Bonds</li>
+      <li>Features of Fixed and Floating Rate Bonds</li>
+      <li>Credit Rating</li>
+      <li>Money Market instruments</li>
+    </ul>
+  </conbody>
+</concept>

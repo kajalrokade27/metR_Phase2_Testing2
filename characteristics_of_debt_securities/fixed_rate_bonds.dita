@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4178" xml:lang="en-us">
+  <title>Fixed Rate Bonds</title>
+  <shortdesc>pay a pre-defined interest that are payable at specified intervals. Such bonds are also called</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Fixed</keyword>
+        <keyword>bonds</keyword>
+        <keyword>interest</keyword>
+        <keyword>plain</keyword>
+        <keyword>vanilla</keyword>
+        <keyword>Rate</keyword>
+        <indexterm>Fixed</indexterm>
+        <indexterm>bonds</indexterm>
+        <indexterm>interest</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Fixed rate bonds pay a pre-defined interest that are payable at specified intervals. Such bonds are also called as the <b>plain vanilla bonds</b> . A plain vanilla bond will have a fixed term to maturity with coupon being paid at pre-defined periods and the principal amount is repaid on maturity. The bond is usually issued at its face value and redeemed at par.</p>
+    <p>The simple variations to this structure could be a slightly varied issue price, higher or lower than par and a slightly altered redemption price, higher or lower than par. In some cases, the frequency of the interest payment could vary, from monthly, to quarterly and annual. All these variations still come under the plain vanilla definition of a bond, where the interest is paid at a fixed rate periodically, and principal returned when the bond is retired.</p>
+  </conbody>
+</concept>

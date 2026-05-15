@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1931" xml:lang="en-us">
+  <title>Uncertain Pay-outs</title>
+  <shortdesc>Shareholders enjoy return in the form of dividends paid by the company and may also</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>price</keyword>
+        <keyword>capital</keyword>
+        <keyword>Uncertain</keyword>
+        <keyword>dividends</keyword>
+        <keyword>appreciation</keyword>
+        <keyword>share</keyword>
+        <indexterm>price</indexterm>
+        <indexterm>capital</indexterm>
+        <indexterm>Uncertain</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Shareholders enjoy return in the form of dividends paid by the company and may also benefit by the appreciation in share price. The investors can book capital gains by selling their shares in secondary market at a price higher than the acquisition price. If share price goes down, this may result in capital loss. However, there is no guarantee of dividends or capital appreciation on equity capital. Thus, the returns from equity are uncertain.</p>
+  </conbody>
+</concept>

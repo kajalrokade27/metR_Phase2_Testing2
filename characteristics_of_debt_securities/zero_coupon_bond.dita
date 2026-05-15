@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4138" xml:lang="en-us">
+  <title>Zero Coupon Bond</title>
+  <shortdesc>In such a bond, no coupons are paid or specified. The bond is issued at</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>interest</keyword>
+        <keyword>issued</keyword>
+        <keyword>discount</keyword>
+        <keyword>value</keyword>
+        <keyword>Zero</keyword>
+        <keyword>Coupon</keyword>
+        <indexterm>interest</indexterm>
+        <indexterm>issued</indexterm>
+        <indexterm>discount</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>In such a bond, no coupons are paid or specified. The bond is issued at a discount to its face value. There are no intermittent payments of interest. When such a bond is issued for a very long tenor, the issue price is at a steep discount to the redemption value. Such a zero coupon bond is also called a <b>deep discount bond</b> .</p>
+    <p>The effective or implied interest earned by the buyer is the difference between the face value and the discounted price at which the bond is bought. There are also instances of zero coupon bonds being issued at par, and redeemed with interest at a premium. The essential feature of this type of bonds is the absence of periodic interest payments. They are suitable for financing projects with long gestation periods.</p>
+  </conbody>
+</concept>

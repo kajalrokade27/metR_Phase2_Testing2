@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3517" xml:lang="en-us">
+  <title>Preference Shares</title>
+  <shortdesc>resemble debt instruments because they offer pre-determined rate of dividend. However, they do not have</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Preference</keyword>
+        <keyword>Shares</keyword>
+        <keyword>shares</keyword>
+        <keyword>dividend</keyword>
+        <keyword>company</keyword>
+        <keyword>resemble</keyword>
+        <indexterm>Preference</indexterm>
+        <indexterm>Shares</indexterm>
+        <indexterm>shares</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Preference shares resemble debt instruments because they offer pre-determined rate of dividend. However, they do not have a fixed maturity period or a right over the assets of the company. They have a preference in the payment of dividend over ordinary equity shares and in the return of capital, if the company is wound up.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2651" xml:lang="en-us">
+  <title>Ownership Transfer Rights</title>
+  <shortdesc>A company is not required to return the equity capital to the investor as it</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Ownership</keyword>
+        <keyword>Transfer</keyword>
+        <keyword>Rights</keyword>
+        <keyword>investors</keyword>
+        <keyword>shares</keyword>
+        <keyword>company</keyword>
+        <indexterm>Ownership</indexterm>
+        <indexterm>Transfer</indexterm>
+        <indexterm>Rights</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A company is not required to return the equity capital to the investor as it is perpetual in nature. However, investors can sell their shares to other investors who may want to buy the shares.</p>
+  </conbody>
+</concept>

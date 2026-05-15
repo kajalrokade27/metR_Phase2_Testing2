@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4912" xml:lang="en-us">
+  <title>Characteristics of Other Securities</title>
+  <shortdesc>Learning Objectives:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Characteristics</keyword>
+        <keyword>Other</keyword>
+        <keyword>Securities</keyword>
+        <keyword>Convertible</keyword>
+        <keyword>Funds</keyword>
+        <keyword>Investment</keyword>
+        <indexterm>Characteristics</indexterm>
+        <indexterm>Other</indexterm>
+        <indexterm>Securities</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <b>Learning Objectives:</b>
+    </p>
+    <p>After studying this chapter, you should know about other types of securities such as:</p>
+    <ul id="ul_07255220">
+      <li>Warrants</li>
+      <li>Convertible Debentures (CDs)</li>
+      <li>Depository Receipts (DRs)</li>
+      <li>Foreign Currency Convertible Bonds (FCCBs)</li>
+      <li>Exchange Traded Funds (ETFs) and Index Funds</li>
+      <li>Real Estate Investment Trusts (REITs)</li>
+      <li>Infrastructure Investment Trusts (InvITs)</li>
+    </ul>
+    <p>Companies raise capital using equity and debt instruments. The basic features of these instruments can be modified to suit the specific requirements of the borrowers or lenders. Such modifications bring advantages such as wider participation, better management of cash flows and better return prospects.</p>
+  </conbody>
+</concept>

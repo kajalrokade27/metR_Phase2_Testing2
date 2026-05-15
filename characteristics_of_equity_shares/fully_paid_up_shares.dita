@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3232" xml:lang="en-us">
+  <title>Fully Paid-up Shares</title>
+  <shortdesc>Fully paid shares are those, of which entire face value amount is collected from shareholders</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Fully</keyword>
+        <keyword>Paid</keyword>
+        <keyword>Shares</keyword>
+        <keyword>amount</keyword>
+        <keyword>shares</keyword>
+        <keyword>those</keyword>
+        <indexterm>Fully</indexterm>
+        <indexterm>Paid</indexterm>
+        <indexterm>Shares</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Fully paid shares are those, of which entire face value amount is collected from shareholders upfront. Shareholder is not liable for any amount.</p>
+  </conbody>
+</concept>

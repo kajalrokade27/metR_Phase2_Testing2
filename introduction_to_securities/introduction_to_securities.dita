@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1471" xml:lang="en-us">
+  <title>Introduction to Securities</title>
+  <shortdesc>LEARNING OBJECTIVES:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Features</keyword>
+        <keyword>Introduction</keyword>
+        <keyword>Securities</keyword>
+        <keyword>Equity</keyword>
+        <keyword>Debt</keyword>
+        <keyword>Benefits</keyword>
+        <indexterm>Features</indexterm>
+        <indexterm>Introduction</indexterm>
+        <indexterm>Securities</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <b>LEARNING OBJECTIVES:</b>
+    </p>
+    <p>After studying this chapter, you should know about:</p>
+    <ul id="ul_07255202">
+      <li>Concept of Equity and Debt</li>
+      <li>Features and Benefits of Equity Capital</li>
+      <li>Features and Benefits of Debt Capital</li>
+      <li>Features of Hybrid Instruments</li>
+    </ul>
+  </conbody>
+</concept>

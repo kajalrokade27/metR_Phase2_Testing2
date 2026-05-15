@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2867" xml:lang="en-us">
+  <title>No Collateral Security</title>
+  <shortdesc>Equity capital is not secured by the assets of the company. The cash and assets</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>company</keyword>
+        <keyword>assets</keyword>
+        <keyword>claims</keyword>
+        <keyword>equity</keyword>
+        <keyword>shareholders</keyword>
+        <keyword>Collateral</keyword>
+        <indexterm>company</indexterm>
+        <indexterm>assets</indexterm>
+        <indexterm>claims</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Equity capital is not secured by the assets of the company. The cash and assets of the company are first applied to settle the claims of the lenders and creditors. The claims of the equity shareholders always rank last in order of preference. During the normal course of operations of the company, dividends are payable to the equity shareholders only after the expenses, interest and taxes are provided for. In the event of liquidation of the company, the equity shareholders are only entitled to a refund of capital after the claims of all the other creditors are satisfied from the sale of the company&amp;rsquo;s assets.</p>
+  </conbody>
+</concept>

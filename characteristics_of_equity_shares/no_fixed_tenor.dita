@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2795" xml:lang="en-us">
+  <title>No Fixed Tenor</title>
+  <shortdesc>Equity shares are issued for perpetuity. This means that there is no period of maturity</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Fixed</keyword>
+        <keyword>Tenor</keyword>
+        <keyword>shares</keyword>
+        <keyword>Equity</keyword>
+        <keyword>issued</keyword>
+        <keyword>perpetuity</keyword>
+        <indexterm>Fixed</indexterm>
+        <indexterm>Tenor</indexterm>
+        <indexterm>shares</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Equity shares are issued for perpetuity. This means that there is no period of maturity after which the money will be returned to the shareholders. Investors who want to exit their investments may do so by selling the shares on the stock exchange to other investors.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e959" xml:lang="en-us">
+  <title>Acknowledgement</title>
+  <shortdesc>This workbook has been developed and reviewed by the Certification team of NISM in coordination</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>NISM</keyword>
+        <keyword>Acknowledgement</keyword>
+        <keyword>Certification</keyword>
+        <keyword>ndash</keyword>
+        <keyword>Examination</keyword>
+        <keyword>workbook</keyword>
+        <indexterm>NISM</indexterm>
+        <indexterm>Acknowledgement</indexterm>
+        <indexterm>Certification</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>This workbook has been developed and reviewed by the Certification team of NISM in coordination with its Resource Person &amp;ndash; Mr. Ashwani Gupta. NISM gratefully acknowledges the contribution of the Examination Committee of NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents &amp;ndash; Mutual Funds Certification Examination consisting of industry experts.</p>
+  </conbody>
+</concept>

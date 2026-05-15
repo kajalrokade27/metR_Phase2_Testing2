@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3591" xml:lang="en-us">
+  <title>Preferential Issue</title>
+  <shortdesc>A company may issue shares to a strategic investor or collaborator at a pre-negotiated price.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>issue</keyword>
+        <keyword>Preferential</keyword>
+        <keyword>Issue</keyword>
+        <keyword>existing</keyword>
+        <keyword>shareholders</keyword>
+        <keyword>company</keyword>
+        <indexterm>issue</indexterm>
+        <indexterm>Preferential</indexterm>
+        <indexterm>Issue</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A company may issue shares to a strategic investor or collaborator at a pre-negotiated price. The pricing for such an issue is determined under various SEBI guidelines. A preferential issue dilutes (reduces) the proportionate rights of existing shareholders and thus requires approval of existing shareholders.</p>
+  </conbody>
+</concept>

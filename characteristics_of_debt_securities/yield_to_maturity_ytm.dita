@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4021" xml:lang="en-us">
+  <title>Yield to Maturity (YTM)</title>
+  <shortdesc>is a popular and extensively used method for computing the return on a bond investment.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>flows</keyword>
+        <keyword>Yield</keyword>
+        <keyword>value</keyword>
+        <keyword>Maturity</keyword>
+        <keyword>maturity</keyword>
+        <keyword>price</keyword>
+        <indexterm>flows</indexterm>
+        <indexterm>Yield</indexterm>
+        <indexterm>value</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Yield to maturity (YTM) is a popular and extensively used method for computing the return on a bond investment. Every bond is made up of a set of cash flows that accrue at various points in time, from the time the bond is acquired, until it is sold or redeemed.</p>
+    <p>Therefore, using the principle of finance to value the bond, the price at which the series of future cash flows should sell is the sum of the discounted value of these cash flows. The rate which equates the discounted value of the cash flows with the price of the bond is the yield to maturity of the bond.</p>
+  </conbody>
+</concept>

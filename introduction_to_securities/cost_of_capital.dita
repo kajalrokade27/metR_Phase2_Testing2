@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1670" xml:lang="en-us">
+  <title>Cost of Capital</title>
+  <shortdesc>The business has to pay a price for using equity or debt capital. The cost</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>equity</keyword>
+        <keyword>capital</keyword>
+        <keyword>company</keyword>
+        <keyword>Cost</keyword>
+        <keyword>Capital</keyword>
+        <keyword>business</keyword>
+        <indexterm>equity</indexterm>
+        <indexterm>capital</indexterm>
+        <indexterm>company</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The business has to pay a price for using equity or debt capital. The cost may be fixed at the time the money is brought in and may constitute an obligation for the company. Debt instruments usually pay a periodic interest. The rate of interest may be pre-determined or the method by which the rate will be determined, as in the case of floating rate bonds and inflation indexed bonds, will be described upfront.</p>
+    <p>The cost of capital may vary depending on the earnings of the company, as is the case with equity capital.</p>
+    <p>Both debt and equity are reflected in the liability side of the balance sheet indicating &amp;ldquo;source of funds&amp;rdquo;. A company must carefully decide the mix of debt and equity to be used in the business.</p>
+  </conbody>
+</concept>

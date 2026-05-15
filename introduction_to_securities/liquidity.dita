@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1858" xml:lang="en-us">
+  <title>Liquidity</title>
+  <shortdesc>Equity shares are first issued by a company to the public through a process called</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>company</keyword>
+        <keyword>market</keyword>
+        <keyword>Liquidity</keyword>
+        <keyword>shares</keyword>
+        <keyword>called</keyword>
+        <keyword>investors</keyword>
+        <indexterm>company</indexterm>
+        <indexterm>market</indexterm>
+        <indexterm>Liquidity</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Equity shares are first issued by a company to the public through a process called the Initial Public Offer (IPO). IPOs are made in primary market. The money raised in an IPO is used by the company for its business activities and reflected in the balance sheet of the company.</p>
+    <p>After IPO, the shares are listed on the stock exchanges, where they can be traded between investors. This is called the secondary market. Such transactions do not result in change in the capital structure of the company. Secondary market provides liquidity to the investors.</p>
+  </conbody>
+</concept>

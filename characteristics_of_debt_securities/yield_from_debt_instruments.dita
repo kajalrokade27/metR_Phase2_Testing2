@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3949" xml:lang="en-us">
+  <title>Yield from Debt Instruments</title>
+  <shortdesc>The return to an investor in bonds is known as yield. The returns to an</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>investor</keyword>
+        <keyword>returns</keyword>
+        <keyword>coupon</keyword>
+        <keyword>Yield</keyword>
+        <keyword>Debt</keyword>
+        <keyword>Instruments</keyword>
+        <indexterm>investor</indexterm>
+        <indexterm>returns</indexterm>
+        <indexterm>coupon</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The return to an investor in bonds is known as yield. The returns to an investor in bonds, is primarily made up of the coupon payments. However, if the investor acquires or sells the bond at a price that is different from the par value it generates capital gains or loss, as the case may be. The returns to the investor in such a case can vary from the coupon. Therefore, the coupon rate of the bond is not an indicator of the returns on the bond, but merely helps in computing what cash flows would accrue periodically, to the investor.</p>
+    <p>The term &amp;lsquo;yield&amp;rsquo;, rather than &amp;lsquo;coupon rate&amp;rsquo;, is used to denote the returns to the investor.</p>
+  </conbody>
+</concept>

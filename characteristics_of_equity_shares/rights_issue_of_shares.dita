@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3552" xml:lang="en-us">
+  <title>Rights Issue of Shares</title>
+  <shortdesc>A company may raise equity capital from its investors at various times. Whenever a company</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>capital</keyword>
+        <keyword>company</keyword>
+        <keyword>issue</keyword>
+        <keyword>shares</keyword>
+        <keyword>existing</keyword>
+        <keyword>rights</keyword>
+        <indexterm>capital</indexterm>
+        <indexterm>company</indexterm>
+        <indexterm>issue</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A company may raise equity capital from its investors at various times. Whenever a company makes a fresh issue of shares, it has an impact on the existing shareholders since their proportionate holding in the shares of the company gets diluted. A rights issue is subject to various SEBI regulations.</p>
+    <p>For example, a company may have 10 lakh outstanding shares of Rs.10 each, amounting to an issued and paid-up capital of Rs. 1 crore. If it issues another 10 lakh shares, to increase its capital, the proportion held by existing shareholders will come down by half, as the issued and paid up capital has doubled. This is called as dilution of holdings. To prevent this, Companies Act requires that a company which wants to raise more capital through an issue of shares must first offer them to the existing shareholders. An existing shareholder has a right to proportionate participation in all capital raising activity. Thus the term Rights issue.</p>
+    <p>The rights shares are offered to the existing investors in a proportion as approved by the Board of the company. For example, the company may choose to issue rights at 1 for 1, to double its capital. This means each existing shareholders will get one equity share for every one equity share that they already hold. The issued and paid up capital will double, but proportionate holdings of each shareholder will not change. The ratio and price of the rights issue is proposed by the Board of the Company. Participation in a rights issue is voluntary.</p>
+  </conbody>
+</concept>

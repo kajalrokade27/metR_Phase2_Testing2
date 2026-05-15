@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3110" xml:lang="en-us">
+  <title>Paid-up Capital</title>
+  <shortdesc>When investors subscribe to the capital issued by a company, they may be required to</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>capital</keyword>
+        <keyword>Paid</keyword>
+        <keyword>Capital</keyword>
+        <keyword>issued</keyword>
+        <keyword>company</keyword>
+        <keyword>When</keyword>
+        <indexterm>capital</indexterm>
+        <indexterm>Paid</indexterm>
+        <indexterm>Capital</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>When investors subscribe to the capital issued by a company, they may be required to pay the entire price at the time of issue or in tranches (instalments). The portion of the issued capital that has been fully paid-up by the shareholders is the paid-up capital of the company.</p>
+  </conbody>
+</concept>

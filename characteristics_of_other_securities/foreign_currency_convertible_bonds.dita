@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5130" xml:lang="en-us">
+  <title>Foreign Currency Convertible Bonds</title>
+  <shortdesc>(FCCB) are issued by Indian companies and subscribed to by investors in foreign currency. They</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Foreign</keyword>
+        <keyword>Currency</keyword>
+        <keyword>Convertible</keyword>
+        <keyword>Bonds</keyword>
+        <keyword>FCCBs</keyword>
+        <keyword>price</keyword>
+        <indexterm>Foreign</indexterm>
+        <indexterm>Currency</indexterm>
+        <indexterm>Convertible</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Foreign Currency Convertible Bonds (FCCB) are issued by Indian companies and subscribed to by investors in foreign currency. They carry a fixed interest or coupon rate and are convertible into a certain number of ordinary shares at a preferred price.</p>
+    <p>The payment of interest and repayment of principal (if required) is in foreign currency. The conversion price is usually set at a premium to the current market price of the shares. FCCBs allow companies to raise debt at lower rates abroad. It also protects the cash flows since maturity is by conversion of debt into equity. Also the time taken to raise FCCBs may be less than what takes to raise pure debt abroad.</p>
+    <p>Issuance of FCCBs is regulated by Reserve Bank of India (RBI) notifications under the Foreign Exchange Management Act (FEMA). The Issue of Foreign Currency Convertible Bonds and Ordinary Shares (Through Depository Receipt Mechanism), 1993 lays down the guidelines for such issues. The issue of FCCBs should be within the limits specified by RBI from time to time.</p>
+  </conbody>
+</concept>

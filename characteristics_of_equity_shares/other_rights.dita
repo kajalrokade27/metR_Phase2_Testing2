@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2686" xml:lang="en-us">
+  <title>Other Rights</title>
+  <shortdesc>Shareholders have other rights such as right to inspect documents related to company workings, right</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>rights</keyword>
+        <keyword>right</keyword>
+        <keyword>Other</keyword>
+        <keyword>Rights</keyword>
+        <keyword>company</keyword>
+        <keyword>Anti</keyword>
+        <indexterm>rights</indexterm>
+        <indexterm>right</indexterm>
+        <indexterm>Other</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Shareholders have other rights such as right to inspect documents related to company workings, right to legal recourse in case of mis-management or wrong disclosure.</p>
+    <p>Also shareholders are sometimes provided with certain special rights such as Anti-dilution rights. Anti-Dilution provision gives an investor the right to maintain the same percentage ownership in a company by purchasing a proportional amount of shares in future when new securities are issued.</p>
+  </conbody>
+</concept>

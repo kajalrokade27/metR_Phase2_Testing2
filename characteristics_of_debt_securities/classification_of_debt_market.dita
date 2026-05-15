@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4398" xml:lang="en-us">
+  <title>Classification of Debt Market</title>
+  <shortdesc>There are two broad ways in which bond markets can be segmented.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>bonds</keyword>
+        <keyword>issued</keyword>
+        <keyword>government</keyword>
+        <keyword>credit</keyword>
+        <keyword>segment</keyword>
+        <keyword>markets</keyword>
+        <indexterm>bonds</indexterm>
+        <indexterm>issued</indexterm>
+        <indexterm>government</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>There are two broad ways in which bond markets can be segmented.</p>
+    <ul id="ul_07255217">
+      <li>Based on the type of borrower, we can segment the market between the bonds issued by governments, and those issued by non-government agencies like banks, corporations and other such entities.</li>
+      <li>Based on the tenor of the instrument, we can segment the bond markets as short term, medium term and long term.</li>
+    </ul>
+    <p>These are not mutually exclusive segments. The government issues bonds to meet its requirements for various periods as does the private sector. Each issued bond has an issuer and a tenor.</p>
+    <p>Government Securities comprises the central government bonds, and quasi-government bonds issued by local governments, state governments and municipal bodies. Government securities do not have credit or default risk.</p>
+    <p>Corporate bond markets comprise pre-dominantly of short-term commercial papers and long-term bonds. Another segment comprises of short term paper issued by banks, in the form of certificates of deposit. The rate at which the non-government segment borrows depends upon the credit quality of the borrower. The credit or default risk of the borrower is defined by the credit rating of the bond. Higher the credit rating, lower is the risk of default.</p>
+  </conbody>
+</concept>

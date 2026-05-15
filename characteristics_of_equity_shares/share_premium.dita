@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2988" xml:lang="en-us">
+  <title>Share Premium</title>
+  <shortdesc>Companies issue shares at face value or at prices higher than the face value depending</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>value</keyword>
+        <keyword>share</keyword>
+        <keyword>Share</keyword>
+        <keyword>Premium</keyword>
+        <keyword>company</keyword>
+        <keyword>shares</keyword>
+        <indexterm>value</indexterm>
+        <indexterm>share</indexterm>
+        <indexterm>Share</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Companies issue shares at face value or at prices higher than the face value depending on the future prospects of the company. The excess amount received by the company over the face value is called the share premium.</p>
+    <p>
+      <b>Example:</b> A company issues 1 lakh equity shares of face value of Rs. 10 each, to the public at Rs. 50 per share, i.e.</p>
+    <ul id="ul_07255211">
+      <li>Face Value of each share is Rs. 10 (par value) and</li>
+      <li>Share Premium on each share is Rs. 40 (Rs. 50 &amp;ndash; Rs. 10).</li>
+    </ul>
+  </conbody>
+</concept>

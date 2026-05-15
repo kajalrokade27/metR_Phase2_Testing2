@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e867" xml:lang="en-us">
+  <title>Disclaimer</title>
+  <shortdesc>The contents of this publication do not necessarily constitute or imply its endorsement, recommendation, or</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>publication</keyword>
+        <keyword>NISM</keyword>
+        <keyword>information</keyword>
+        <keyword>material</keyword>
+        <keyword>SEBI</keyword>
+        <keyword>herein</keyword>
+        <indexterm>publication</indexterm>
+        <indexterm>NISM</indexterm>
+        <indexterm>information</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The contents of this publication do not necessarily constitute or imply its endorsement, recommendation, or favoring by the National Institute of Securities Market (NISM) or the Securities and Exchange Board of India (SEBI). This publication is meant for general reading and educational purpose only. It is not meant to serve as guide for investment. The views and opinions and statements of authors or publishers expressed herein do not constitute a personal recommendation or suggestion for any specific need of an Individual. It shall not be used for advertising or product endorsement purposes.</p>
+    <p>The statements/explanations/concepts are of general nature and may not have taken into account the particular objective/ move/ aim/ need/ circumstances of individual user/ reader/ organization/ institute. Thus, NISM and SEBI do not assume any responsibility for any wrong move or action taken based on the information available in this publication.</p>
+    <p>Therefore, before acting on or following the steps suggested on any theme or before following any recommendation given in this publication, user/reader should consider/seek professional advice.</p>
+    <p>The publication contains information, statements, opinions, statistics and materials that have been obtained from sources believed to be reliable and the publishers of this title have made best efforts to avoid any errors. However, publishers of this material offer no guarantees and warranties of any kind to the readers/users of the information contained in this publication.</p>
+    <p>Since the work and research is still going on in all these knowledge streams, NISM and SEBI do not warrant the totality and absolute accuracy, adequacy or completeness of this information and material and expressly disclaim any liability for errors or omissions in this information and material herein. NISM and SEBI do not accept any legal liability what so ever based on any information contained herein.</p>
+    <p>While the NISM Certification examination will be largely based on material in this workbook, NISM does not guarantee that all questions in the examination will be from material covered herein.</p>
+  </conbody>
+</concept>

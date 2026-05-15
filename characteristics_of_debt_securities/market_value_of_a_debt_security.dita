@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3914" xml:lang="en-us">
+  <title>Market Value of a Debt security</title>
+  <shortdesc>As stated earlier, the face value or par value of a debt instrument is its</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>value</keyword>
+        <keyword>Market</keyword>
+        <keyword>instrument</keyword>
+        <keyword>market</keyword>
+        <keyword>Value</keyword>
+        <keyword>Debt</keyword>
+        <indexterm>value</indexterm>
+        <indexterm>Market</indexterm>
+        <indexterm>instrument</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>As stated earlier, the face value or par value of a debt instrument is its book value that represents the principal amount of the borrowing which is to be repaid to the investor at the time of maturity. If the debt instrument is traded in the market before its maturity, the value at which such trade is executed is called the market value of the debt instrument. Market value may be higher or lower than the face value of the debt instrument. Market value fluctuates due to market dynamics such as demand-supply condition, market interest rate scenario etc.</p>
+  </conbody>
+</concept>

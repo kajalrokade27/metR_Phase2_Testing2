@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5170" xml:lang="en-us">
+  <title>Exchange Traded Funds and Index Funds</title>
+  <shortdesc>Exchange Traded Funds (ETFs) are a type of mutual funds that are listed and traded</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Funds</keyword>
+        <keyword>ETFs</keyword>
+        <keyword>Exchange</keyword>
+        <keyword>index</keyword>
+        <keyword>Traded</keyword>
+        <keyword>Index</keyword>
+        <indexterm>Funds</indexterm>
+        <indexterm>ETFs</indexterm>
+        <indexterm>Exchange</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>Exchange Traded Funds (ETFs) are a type of mutual funds that are listed and traded on a stock exchange. ETFs are passive funds that generate returns in line with the index or benchmark. There are no investment strategies used to generate higher returns other than what the index does.</p>
+<p>Index Funds are also passive funds but are not traded on stock exchanges. They are expected to offer a return in line with the market because they invest in a portfolio that mimics a market index. The portfolio of index funds consists of the same securities as that of market index in the exact weightages allotted to each security.</p>
+<p>Table 4:1 draws a comparative summary among Open-ended MFs, Close-ended MFs and Index based ETFs.</p>
+<p>
+        <b>Table 4:1 Comparative Summary</b>
+      </p>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>Parameters</entry>
+              <entry>Open-ended Mutual Funds</entry>
+              <entry>Close-ended Mutual Funds</entry>
+              <entry>Index based Exchange Traded Funds (ETFs)</entry>
+            </row>
+            <row>
+              <entry>Unit capital</entry>
+              <entry>Flexible</entry>
+              <entry>Fixed</entry>
+              <entry>Flexible</entry>
+            </row>
+            <row>
+              <entry>Net Asset Value (NAV)</entry>
+              <entry>Daily</entry>
+              <entry>Daily</entry>
+              <entry>Real time</entry>
+            </row>
+            <row>
+              <entry>Liquidity provider</entry>
+              <entry>Fund</entry>
+              <entry>Stock market</entry>
+              <entry>Fund and stock market</entry>
+            </row>
+            <row>
+              <entry>Transaction price</entry>
+              <entry>NAV linked price</entry>
+              <entry>Significant premium / discount to NAV</entry>
+              <entry>Very close to real time NAV</entry>
+            </row>
+            <row>
+              <entry>Portfolio disclosure</entry>
+              <entry>Monthly</entry>
+              <entry>Monthly</entry>
+              <entry>Daily</entry>
+            </row>
+            <row>
+              <entry>Intra-day trading</entry>
+              <entry>Not possible</entry>
+              <entry>Expensive (due to bid-ask spreads)</entry>
+              <entry>Possible at low costs</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+<p>Exchange traded funds are most popular as index based ETFs. However, other variants are also possible, such as, debt oriented ETFs, Gold ETFs and Silver ETFs. Exchange Traded Funds offer a low cost investment avenue to its investors.</p></conbody>
+</concept>

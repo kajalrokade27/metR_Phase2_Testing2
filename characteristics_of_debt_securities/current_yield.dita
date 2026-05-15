@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3986" xml:lang="en-us">
+  <title>Current Yield</title>
+  <shortdesc>simply compares the coupon of a bond with its market price (Coupon of the bond</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Current</keyword>
+        <keyword>yield</keyword>
+        <keyword>market</keyword>
+        <keyword>Yield</keyword>
+        <keyword>coupon</keyword>
+        <keyword>price</keyword>
+        <indexterm>Current</indexterm>
+        <indexterm>yield</indexterm>
+        <indexterm>market</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Current yield simply compares the coupon of a bond with its market price (Coupon of the bond divided by its market price). For example, if a bond paying an annual coupon of 12 percent is trading in the market for Rs. 109.50, then the current yield is: 12/109.5 = 10.95 percent. Current yield is a measure of return of a bond.</p>
+  </conbody>
+</concept>

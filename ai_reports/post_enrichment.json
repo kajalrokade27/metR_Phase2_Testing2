@@ -1,0 +1,3811 @@
+{
+  "job_id": "f2ced2d0-20eb-4012-8b06-ccca5d54e78d",
+  "mode": "enrich-only",
+  "output_dir": "/app/output/f2ced2d0-20eb-4012-8b06-ccca5d54e78d",
+  "processed_at": "2026-05-15T07:26:00.964321+00:00",
+  "counts": {
+    "dita_files_total": 91,
+    "ditamap_files_total": 6,
+    "topics_reclassified": 11,
+    "issues_fixed_by_zone1": 2,
+    "issues_fixed_by_ai": 91,
+    "issues_remaining": 6,
+    "ai_obligations_missed": 2,
+    "new_issues_by_ai": 3,
+    "pending_suggestions": 100
+  },
+  "quality_metrics": {
+    "element_validation_success_pct": 95,
+    "attribute_mapping_success_pct": 100,
+    "href_resolution_success_pct": 100,
+    "table_resolution": {
+      "validated": 2,
+      "total": 2,
+      "success_pct": 100
+    }
+  },
+  "token_usage": {
+    "total_input_tokens": 0,
+    "total_output_tokens": 0,
+    "total_tokens": 0,
+    "total_cost_usd": 0,
+    "by_model": {}
+  },
+  "element_counts": {
+    "ol": 4,
+    "ul": 20,
+    "table": 2,
+    "image": 0,
+    "crosslink": 0,
+    "hyperlink": 0,
+    "concept": 86,
+    "task": 3,
+    "reference": 0,
+    "topic": 2
+  },
+  "enrichment_summary": [
+    {
+      "file": "characteristics_of_debt_securities/amortising_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/asset_backed_securities.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/chapter_3_sample_questions.dita",
+      "original_type": "task",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/characteristics_of_debt_securities.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/classification_of_debt_market.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/convertible_debt_securities.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/credit_rating.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/current_yield.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/features_of_a_debt_security.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/fixed_rate_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/floating_rate_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/inflation_indexed_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/market_value_of_a_debt_security.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/money_market_instruments.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/other_types_of_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "medium",
+      "reclassified": false,
+      "skipped": true
+    },
+    {
+      "file": "characteristics_of_debt_securities/unrated_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/yield_from_debt_instruments.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/yield_to_maturity_ytm.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_debt_securities/zero_coupon_bond.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/authorised_capital.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/bonus_issue.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/buyback_of_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/chapter_2_sample_questions.dita",
+      "original_type": "task",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/characteristics_of_equity_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/corporate_actions.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/dividend.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/equity_terminology.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "medium",
+      "reclassified": false,
+      "skipped": true
+    },
+    {
+      "file": "characteristics_of_equity_shares/face_value.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/fully_paid_up_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/institutional_investors.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/investors_in_equity_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/issued_capital.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/liquidity_risk.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/no_collateral_security.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/no_fixed_return.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/no_fixed_tenor.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/other_rights.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/outstanding_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/ownership_rights_2.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/ownership_transfer_rights.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/paid_up_capital.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/partly_paid_up_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/preference_shares_2.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/preferential_issue.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/promoters.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/public_investors.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/right_to_dividend.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/rights_issue_of_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/rights_of_a_shareholder.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/risks_in_equity_investing.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/share_premium.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_equity_shares/stock_split_and_consolidation.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/chapter_4_sample_questions.dita",
+      "original_type": "task",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/characteristics_of_other_securities.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/convertible_debentures_2.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/depository_receipts.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/foreign_currency_convertible_bonds.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/infrastructure_investment_trusts_invits.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/investment_trusts.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/real_estate_investment_trusts_reits.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "characteristics_of_other_securities/warrants.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/chapter_1_sample_questions.dita",
+      "original_type": "task",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/contributors.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "task",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/convertible_debentures.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/cost_of_capital.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/features_of_debt_capital_and_benefits_to_debt_investors.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/features_of_equity_capital_and_benefits_to_equity_investors.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/hybrid_structures.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/introduction_to_equity_and_debt.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/introduction_to_securities.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/limited_liability.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/liquidity.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/ownership_rights.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/perpetuity.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/preference_shares.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/rights_of_the_contributors.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/time_period.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "introduction_to_securities/uncertain_pay_outs.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_nism_certifications.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "task",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/acknowledgement.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/assessment_structure.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/disclaimer.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/examination_objectives.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/foreword.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/how_to_register_and_take_the_examination.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "task",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/important.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    }
+  ],
+  "structural_issues_remaining": [
+    {
+      "severity": "WARNING",
+      "category": "empty_body",
+      "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+      "message": "<conbody> exists but has no child elements or text content",
+      "line": 5
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_steps",
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+      "message": "<taskbody> has no <steps> or <steps-unordered> element"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 27
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_steps",
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/how_to_register_and_take_the_examination.dita",
+      "message": "<taskbody> has no <steps> or <steps-unordered> element"
+    },
+    {
+      "severity": "WARNING",
+      "category": "empty_body",
+      "file": "characteristics_of_equity_shares/equity_terminology.dita",
+      "message": "<conbody> exists but has no child elements or text content",
+      "line": 5
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "characteristics_of_equity_shares/equity_terminology.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_steps",
+      "file": "introduction_to_securities/contributors.dita",
+      "message": "<taskbody> has no <steps> or <steps-unordered> element"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 30
+    }
+  ],
+  "enrichment_quality": {
+    "summary": {
+      "dita_file_count": 91,
+      "severity_counts": {
+        "CRITICAL": 0,
+        "WARNING": 4,
+        "INFO": 0
+      },
+      "category_counts": {
+        "missing_shortdesc": 2,
+        "missing_prolog": 2
+      }
+    },
+    "issues": [
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/equity_terminology.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "characteristics_of_equity_shares/equity_terminology.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      }
+    ]
+  },
+  "fix_diff": {
+    "fixed_by_zone1": [
+      {
+        "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+        "fix": "expanded self-closing <conbody/> to explicit open/close tags"
+      },
+      {
+        "file": "characteristics_of_equity_shares/equity_terminology.dita",
+        "fix": "expanded self-closing <conbody/> to explicit open/close tags"
+      }
+    ],
+    "fixed_by_ai": [
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/classification_of_debt_market.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/asset_backed_securities.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/chapter_3_sample_questions.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/market_value_of_a_debt_security.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/floating_rate_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/convertible_debt_securities.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/features_of_a_debt_security.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/unrated_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/current_yield.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/amortising_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/yield_from_debt_instruments.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/characteristics_of_debt_securities.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/fixed_rate_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/money_market_instruments.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/other_types_of_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/credit_rating.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/inflation_indexed_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/zero_coupon_bond.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_debt_securities/yield_to_maturity_ytm.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/assessment_structure.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/important.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/acknowledgement.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/examination_objectives.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/foreword.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/disclaimer.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_nism_certifications.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/how_to_register_and_take_the_examination.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/share_premium.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/public_investors.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/ownership_rights_2.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/characteristics_of_equity_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/no_fixed_return.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/stock_split_and_consolidation.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/investors_in_equity_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/corporate_actions.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/risks_in_equity_investing.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/bonus_issue.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/liquidity_risk.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/rights_issue_of_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/paid_up_capital.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/buyback_of_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/no_fixed_tenor.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/partly_paid_up_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/ownership_transfer_rights.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/rights_of_a_shareholder.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/authorised_capital.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/outstanding_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/chapter_2_sample_questions.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/no_collateral_security.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/other_rights.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/issued_capital.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/institutional_investors.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/right_to_dividend.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/dividend.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/preferential_issue.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/preference_shares_2.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/promoters.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/fully_paid_up_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_equity_shares/face_value.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/rights_of_the_contributors.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/contributors.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/uncertain_pay_outs.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/preference_shares.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/limited_liability.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/chapter_1_sample_questions.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/hybrid_structures.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/cost_of_capital.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/ownership_rights.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/perpetuity.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/introduction_to_securities.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/convertible_debentures.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/liquidity.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/features_of_equity_capital_and_benefits_to_equity_investors.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/introduction_to_equity_and_debt.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/time_period.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "introduction_to_securities/features_of_debt_capital_and_benefits_to_debt_investors.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/convertible_debentures_2.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/real_estate_investment_trusts_reits.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/warrants.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/characteristics_of_other_securities.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/infrastructure_investment_trusts_invits.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/foreign_currency_convertible_bonds.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/depository_receipts.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/investment_trusts.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "characteristics_of_other_securities/chapter_4_sample_questions.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      }
+    ],
+    "ai_obligations_missed": [
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "characteristics_of_equity_shares/equity_terminology.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      }
+    ],
+    "new_issues_introduced_by_ai": [
+      {
+        "severity": "WARNING",
+        "category": "missing_steps",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+        "message": "<taskbody> has no <steps> or <steps-unordered> element"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_steps",
+        "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/how_to_register_and_take_the_examination.dita",
+        "message": "<taskbody> has no <steps> or <steps-unordered> element"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_steps",
+        "file": "introduction_to_securities/contributors.dita",
+        "message": "<taskbody> has no <steps> or <steps-unordered> element"
+      }
+    ],
+    "summary": {
+      "pre_enrichment_issue_count": 97,
+      "post_enrichment_issue_count": 13,
+      "backend_error_file_count": 0,
+      "fixed_by_zone1_count": 2,
+      "fixed_by_ai_count": 91,
+      "remaining_count": 6,
+      "ai_obligations_missed_count": 2,
+      "new_issues_count": 3
+    }
+  },
+  "ai_quality_review": {
+    "layer4": {
+      "overall_quality": "fair",
+      "topic_type_accuracy_pct": 0,
+      "recommendations": [],
+      "dita_best_practice_gaps": [],
+      "autofix": {
+        "fixed": [],
+        "flagged": [],
+        "failed": []
+      }
+    },
+    "layer5": {
+      "validation_passed": true,
+      "overall_accuracy_pct": 100,
+      "per_topic_issues": [
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/amortising_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Amortising Bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/asset_backed_securities.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Asset-backed Securities' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/chapter_3_sample_questions.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Chapter 3: Sample Questions' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/characteristics_of_debt_securities.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Characteristics of Debt Securities' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/classification_of_debt_market.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Classification of Debt Market' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/convertible_debt_securities.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Convertible Debt Securities' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/credit_rating.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Credit Rating' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/current_yield.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Current Yield' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/features_of_a_debt_security.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Features of a Debt Security' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/fixed_rate_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Fixed Rate Bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/floating_rate_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Floating Rate Bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/inflation_indexed_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Inflation Indexed Bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/market_value_of_a_debt_security.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Market Value of a Debt security' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/money_market_instruments.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Money Market Instruments' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/other_types_of_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Other types of bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+          "issue": "Empty body: <conbody> has no content or child elements",
+          "line": 5
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+          "issue": "Missing shortdesc element",
+          "reason": "Topic body has no content \u2014 shortdesc could not be generated from an empty source body",
+          "line": 3
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/unrated_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Unrated Bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/yield_from_debt_instruments.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Yield from Debt Instruments' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/yield_to_maturity_ytm.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Yield to Maturity (YTM)' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_debt_securities/zero_coupon_bond.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Zero Coupon Bond' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/authorised_capital.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Authorised Capital' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/bonus_issue.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Bonus issue' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/buyback_of_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Buyback of shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/chapter_2_sample_questions.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Chapter 2: Sample Questions' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/characteristics_of_equity_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Characteristics of Equity Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/corporate_actions.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Corporate Actions' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/dividend.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Dividend' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/equity_terminology.dita",
+          "issue": "Empty body: <conbody> has no content or child elements",
+          "line": 5
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/equity_terminology.dita",
+          "issue": "Missing shortdesc element",
+          "reason": "Topic body has no content \u2014 shortdesc could not be generated from an empty source body",
+          "line": 3
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/face_value.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Face Value' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/fully_paid_up_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Fully Paid-up Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/institutional_investors.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Institutional Investors' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/investors_in_equity_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Investors in Equity Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/issued_capital.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Issued Capital' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/liquidity_risk.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Liquidity Risk' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/no_collateral_security.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'No Collateral Security' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/no_fixed_return.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'No Fixed Return' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/no_fixed_tenor.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'No Fixed Tenor' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/other_rights.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Other Rights' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/outstanding_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Outstanding shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/ownership_rights_2.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Ownership Rights' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/ownership_transfer_rights.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Ownership Transfer Rights' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/paid_up_capital.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Paid-up Capital' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/partly_paid_up_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Partly Paid-up Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/preference_shares_2.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Preference Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/preferential_issue.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Preferential Issue' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/promoters.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Promoters' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/public_investors.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Public Investors' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/right_to_dividend.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Right to Dividend' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/rights_issue_of_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Rights Issue of Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/rights_of_a_shareholder.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Rights of a Shareholder' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/risks_in_equity_investing.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Risks in Equity Investing' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/share_premium.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Share Premium' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_equity_shares/stock_split_and_consolidation.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Stock Split and Consolidation' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/chapter_4_sample_questions.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Chapter 4: Sample Questions' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/characteristics_of_other_securities.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Characteristics of Other Securities' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/convertible_debentures_2.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Convertible Debentures' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/depository_receipts.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Depository Receipts' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Exchange Traded Funds and Index Funds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/foreign_currency_convertible_bonds.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Foreign Currency Convertible Bonds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/infrastructure_investment_trusts_invits.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Infrastructure Investment Trusts (InvITs)' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/investment_trusts.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Investment Trusts' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/real_estate_investment_trusts_reits.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Real Estate Investment Trusts (REITs)' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "characteristics_of_other_securities/warrants.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Warrants' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/chapter_1_sample_questions.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Chapter 1: Sample Questions' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/contributors.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Contributors' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/convertible_debentures.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Convertible Debentures' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/cost_of_capital.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Cost of Capital' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/features_of_debt_capital_and_benefits_to_debt_investors.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Features of Debt Capital and Benefits to Debt Investors' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/features_of_equity_capital_and_benefits_to_equity_investors.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Features of Equity Capital and Benefits to Equity Investors' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/hybrid_structures.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Hybrid Structures' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/introduction_to_equity_and_debt.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Introduction to Equity and Debt' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/introduction_to_securities.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Introduction to Securities' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/limited_liability.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Limited Liability' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/liquidity.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Liquidity' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/ownership_rights.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Ownership Rights' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/perpetuity.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Perpetuity' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/preference_shares.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Preference Shares' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/rights_of_the_contributors.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Rights of the Contributors' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/time_period.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Time Period' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "introduction_to_securities/uncertain_pay_outs.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Uncertain Pay-outs' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_nism_certifications.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'About NISM Certifications' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'About the Certification Examination for Registrars to an Issue and Share Transfer Agents \u2013 Mutual Funds' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/acknowledgement.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Acknowledgement' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/assessment_structure.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Assessment Structure' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/disclaimer.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Disclaimer' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/examination_objectives.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Examination Objectives' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/foreword.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'FOREWORD' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/how_to_register_and_take_the_examination.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'How to register and take the examination' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 18
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/important.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Important' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents - Mutual Fund Certification Examination' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Workbook for NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents \u2013Mutual Funds Certification Examination' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        }
+      ],
+      "shortdesc_issues": [
+        {
+          "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+          "issue": "Missing shortdesc element"
+        },
+        {
+          "file": "characteristics_of_equity_shares/equity_terminology.dita",
+          "issue": "Missing shortdesc element"
+        }
+      ],
+      "recommendations": [
+        "93 WARNING(s) \u2014 missing id, DOCTYPE, or shortdesc"
+      ],
+      "schema_validation": {
+        "schema_passed": true,
+        "total_files": 91,
+        "valid_files": 91,
+        "invalid_files": 0,
+        "results": [
+          {
+            "file": "amortising_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "asset_backed_securities.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "chapter_3_sample_questions.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "characteristics_of_debt_securities.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "classification_of_debt_market.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "convertible_debt_securities.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "credit_rating.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "current_yield.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "features_of_a_debt_security.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "fixed_rate_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "floating_rate_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "inflation_indexed_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "market_value_of_a_debt_security.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "money_market_instruments.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "other_types_of_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "types_of_debt_securities.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "unrated_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "yield_from_debt_instruments.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "yield_to_maturity_ytm.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "zero_coupon_bond.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "authorised_capital.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "bonus_issue.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "buyback_of_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "chapter_2_sample_questions.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "characteristics_of_equity_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "corporate_actions.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "dividend.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "equity_terminology.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "face_value.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "fully_paid_up_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "institutional_investors.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "investors_in_equity_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "issued_capital.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "liquidity_risk.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "no_collateral_security.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "no_fixed_return.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "no_fixed_tenor.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "other_rights.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "outstanding_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "ownership_rights_2.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "ownership_transfer_rights.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "paid_up_capital.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "partly_paid_up_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "preference_shares_2.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "preferential_issue.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "promoters.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "public_investors.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "right_to_dividend.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "rights_issue_of_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "rights_of_a_shareholder.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "risks_in_equity_investing.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "share_premium.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "stock_split_and_consolidation.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "chapter_4_sample_questions.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "characteristics_of_other_securities.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "convertible_debentures_2.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "depository_receipts.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "exchange_traded_funds_and_index_funds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "foreign_currency_convertible_bonds.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "infrastructure_investment_trusts_invits.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "investment_trusts.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "real_estate_investment_trusts_reits.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "warrants.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "chapter_1_sample_questions.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "contributors.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "convertible_debentures.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "cost_of_capital.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "features_of_debt_capital_and_benefits_to_debt_investors.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "features_of_equity_capital_and_benefits_to_equity_investors.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "hybrid_structures.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "introduction_to_equity_and_debt.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "introduction_to_securities.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "limited_liability.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "liquidity.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "ownership_rights.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "perpetuity.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "preference_shares.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "rights_of_the_contributors.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "time_period.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "uncertain_pay_outs.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "about_nism_certifications.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "acknowledgement.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "assessment_structure.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "disclaimer.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "examination_objectives.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "foreword.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "how_to_register_and_take_the_examination.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "important.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents.dita",
+            "valid": true,
+            "issues": []
+          }
+        ]
+      }
+    }
+  },
+  "element_counts_per_file": [
+    {
+      "file": "characteristics_of_debt_securities/amortising_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/asset_backed_securities.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/chapter_3_sample_questions.dita",
+      "ol": 1,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/characteristics_of_debt_securities.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/classification_of_debt_market.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/convertible_debt_securities.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/credit_rating.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/current_yield.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/features_of_a_debt_security.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/fixed_rate_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/floating_rate_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/inflation_indexed_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/market_value_of_a_debt_security.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/money_market_instruments.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/other_types_of_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/types_of_debt_securities.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/unrated_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/yield_from_debt_instruments.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/yield_to_maturity_ytm.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_debt_securities/zero_coupon_bond.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/authorised_capital.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/bonus_issue.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/buyback_of_shares.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/chapter_2_sample_questions.dita",
+      "ol": 1,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/characteristics_of_equity_shares.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "characteristics_of_equity_shares/corporate_actions.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/dividend.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/equity_terminology.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/face_value.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/fully_paid_up_shares.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/institutional_investors.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/investors_in_equity_shares.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/issued_capital.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/liquidity_risk.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/no_collateral_security.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/no_fixed_return.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/no_fixed_tenor.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/other_rights.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/outstanding_shares.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/ownership_rights_2.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/ownership_transfer_rights.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/paid_up_capital.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/partly_paid_up_shares.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/preference_shares_2.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/preferential_issue.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/promoters.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/public_investors.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/right_to_dividend.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/rights_issue_of_shares.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/rights_of_a_shareholder.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/risks_in_equity_investing.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/share_premium.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_equity_shares/stock_split_and_consolidation.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/chapter_4_sample_questions.dita",
+      "ol": 1,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/characteristics_of_other_securities.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/convertible_debentures_2.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/depository_receipts.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/foreign_currency_convertible_bonds.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/infrastructure_investment_trusts_invits.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/investment_trusts.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/real_estate_investment_trusts_reits.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "characteristics_of_other_securities/warrants.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/chapter_1_sample_questions.dita",
+      "ol": 1,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/contributors.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 1,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/convertible_debentures.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/cost_of_capital.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/features_of_debt_capital_and_benefits_to_debt_investors.dita",
+      "ol": 0,
+      "ul": 2,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/features_of_equity_capital_and_benefits_to_equity_investors.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/hybrid_structures.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/introduction_to_equity_and_debt.dita",
+      "ol": 0,
+      "ul": 2,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/introduction_to_securities.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/limited_liability.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/liquidity.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/ownership_rights.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/perpetuity.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/preference_shares.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/rights_of_the_contributors.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/time_period.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "introduction_to_securities/uncertain_pay_outs.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_nism_certifications.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/about_the_certification_examination_for_registrars_to_an_issue_and_share.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 1,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/acknowledgement.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/assessment_structure.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/disclaimer.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/examination_objectives.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/foreword.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/how_to_register_and_take_the_examination.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 1,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/important.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_mutual_fund.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents/workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3423" xml:lang="en-us">
+  <title>Bonus issue</title>
+  <shortdesc>A company may issue additional shares to existing shareholders without any capital contribution from the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>issue</keyword>
+        <keyword>shares</keyword>
+        <keyword>bonus</keyword>
+        <keyword>Bonus</keyword>
+        <keyword>company</keyword>
+        <keyword>shareholders</keyword>
+        <indexterm>issue</indexterm>
+        <indexterm>shares</indexterm>
+        <indexterm>bonus</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A company may issue additional shares to existing shareholders without any capital contribution from the shareholders based on the number of shares an investor holds. This is known as a bonus issue. The bonus is issued against accumulated profit of the company. Bonus issue results in increase in number of outstanding shares of the company.</p>
+    <p>
+      <b>Example:</b> ABC Company Ltd. declares a bonus issue in the ratio 1:2. This means that ABC Company Ltd. will issue 1 bonus share for every 2 shares held by the shareholder.</p>
+  </conbody>
+</concept>

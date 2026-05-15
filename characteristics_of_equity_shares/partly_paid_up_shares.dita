@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3267" xml:lang="en-us">
+  <title>Partly Paid-up Shares</title>
+  <shortdesc>are those on which entire face value amount is not collected from shareholders upfront. That</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Partly</keyword>
+        <keyword>Paid</keyword>
+        <keyword>Shares</keyword>
+        <keyword>shares</keyword>
+        <keyword>amount</keyword>
+        <keyword>company</keyword>
+        <indexterm>Partly</indexterm>
+        <indexterm>Paid</indexterm>
+        <indexterm>Shares</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Partly paid-up shares are those on which entire face value amount is not collected from shareholders upfront. That means, company can make call for balance unpaid portion and the shareholder will be liable to pay such call money. If the shareholder does not pay the call money as per schedule, the shares can be forfeited, including the amount already paid thereon, by the company.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5028" xml:lang="en-us">
+  <title>Convertible Debentures</title>
+  <shortdesc>pay interest like any other debt instrument till the date of maturity. On maturity, the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Convertible</keyword>
+        <keyword>maturity</keyword>
+        <keyword>conversion</keyword>
+        <keyword>Debentures</keyword>
+        <keyword>instrument</keyword>
+        <keyword>converted</keyword>
+        <indexterm>Convertible</indexterm>
+        <indexterm>maturity</indexterm>
+        <indexterm>conversion</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Convertible debentures pay interest like any other debt instrument till the date of maturity. On maturity, the debt is converted into equity shares. The terms of conversion, such as the number of equity shares that each debenture will be converted into and the price at which the conversion will take place are mentioned at the time of the issue of the debt instrument.</p>
+    <p>They are beneficial to a company as there is no cash outflow on maturity. The lender is benefitted if the conversion is below the prevailing market price of the share.</p>
+  </conbody>
+</concept>

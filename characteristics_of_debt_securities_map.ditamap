@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="characteristics_of_debt_securities_map" xml:lang="en-us">
+  <title>Characteristics of Debt Securities</title>
+  <topicref href="characteristics_of_debt_securities/characteristics_of_debt_securities.dita" navtitle="Characteristics of Debt Securities" />
+  <topicref href="characteristics_of_debt_securities/features_of_a_debt_security.dita" navtitle="Features of a Debt Security" />
+  <topicref href="characteristics_of_debt_securities/market_value_of_a_debt_security.dita" navtitle="Market Value of a Debt security" />
+  <topicref href="characteristics_of_debt_securities/yield_from_debt_instruments.dita" navtitle="Yield from Debt Instruments" chunk="to-content">
+    <topicref href="characteristics_of_debt_securities/current_yield.dita" navtitle="Current Yield" />
+    <topicref href="characteristics_of_debt_securities/yield_to_maturity_ytm.dita" navtitle="Yield to Maturity (YTM)" />
+  </topicref>
+  <topicref href="characteristics_of_debt_securities/types_of_debt_securities.dita" navtitle="Types of Debt Securities" chunk="to-content">
+    <topicref href="characteristics_of_debt_securities/convertible_debt_securities.dita" navtitle="Convertible Debt Securities" />
+    <topicref href="characteristics_of_debt_securities/zero_coupon_bond.dita" navtitle="Zero Coupon Bond" />
+    <topicref href="characteristics_of_debt_securities/fixed_rate_bonds.dita" navtitle="Fixed Rate Bonds" />
+    <topicref href="characteristics_of_debt_securities/floating_rate_bonds.dita" navtitle="Floating Rate Bonds" />
+    <topicref href="characteristics_of_debt_securities/inflation_indexed_bonds.dita" navtitle="Inflation Indexed Bonds" />
+    <topicref href="characteristics_of_debt_securities/amortising_bonds.dita" navtitle="Amortising Bonds" />
+    <topicref href="characteristics_of_debt_securities/asset_backed_securities.dita" navtitle="Asset-backed Securities" />
+    <topicref href="characteristics_of_debt_securities/other_types_of_bonds.dita" navtitle="Other types of bonds" />
+    <topicref href="characteristics_of_debt_securities/classification_of_debt_market.dita" navtitle="Classification of Debt Market" />
+  </topicref>
+  <topicref href="characteristics_of_debt_securities/credit_rating.dita" navtitle="Credit Rating" chunk="to-content">
+    <topicref href="characteristics_of_debt_securities/unrated_bonds.dita" navtitle="Unrated Bonds" />
+  </topicref>
+  <topicref href="characteristics_of_debt_securities/money_market_instruments.dita" navtitle="Money Market Instruments" chunk="to-content">
+    <topicref href="characteristics_of_debt_securities/chapter_3_sample_questions.dita" navtitle="Chapter 3: Sample Questions" />
+  </topicref>
+</map>

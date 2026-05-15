@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4363" xml:lang="en-us">
+  <title>Other types of bonds</title>
+  <shortdesc>Some of other structures are: (a) deferred interest bonds, where the borrower could defer the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>bonds</keyword>
+        <keyword>Other</keyword>
+        <keyword>types</keyword>
+        <keyword>interest</keyword>
+        <keyword>where</keyword>
+        <keyword>initial</keyword>
+        <indexterm>bonds</indexterm>
+        <indexterm>Other</indexterm>
+        <indexterm>types</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Some of other structures are: (a) deferred interest bonds, where the borrower could defer the payment of coupons in the initial 1 to 3 year period; (b) Step-up bonds, where the coupon is stepped up periodically, so that the interest burden in the initial years is lower, and increases over time.</p>
+  </conbody>
+</concept>

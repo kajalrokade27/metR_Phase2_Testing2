@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3851" xml:lang="en-us">
+  <title>Features of a Debt Security</title>
+  <shortdesc>A debt security denotes a contract between the issuer (company) and the lender (investor) which</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>holders</keyword>
+        <keyword>value</keyword>
+        <keyword>company</keyword>
+        <keyword>principal</keyword>
+        <keyword>maturity</keyword>
+        <keyword>debenture</keyword>
+        <indexterm>holders</indexterm>
+        <indexterm>value</indexterm>
+        <indexterm>company</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A debt security denotes a contract between the issuer (company) and the lender (investor) which allows the issuer to borrow a sum of money at pre-determined terms.</p>
+    <p>These terms are referred to as the features of a bond and include the principal, coupon (interest rate) and the maturity date of the bond. In Indian securities markets, a debt instrument denoting the borrowing of a government or public sector organizations is called a bond and the borrowings by the private corporate sector is called debenture. The terms bonds and debentures are used interchangeably.</p>
+    <p>The principal is the amount which is being borrowed by the issuer. The face value or par value of the debenture is the amount of the principal that is due on each debenture at maturity. The face value of a debenture is usually Rs. 100 or Rs. 1,000.</p>
+    <p>The coupon is the rate of interest to be paid by the borrower to the lender. This is a percentage that is applied to the face value or par value of the bond. The periodicity of interest payment (annual, semi-annual, quarterly or monthly) is also specified.</p>
+    <p>The maturity date of a bond refers to the date on which the contract requires the borrower to repay the principal amount. Different combinations of each of these features can be used to create instruments that meet the specific requirements of the borrower or the lender.</p>
+    <p>It may, therefore, be emphasised that the debt securities have distinct characteristics in contrast to equities.</p>
+    <ul id="ul_07255216">
+      <li>The debt holders are lenders to the company, while equity-holders are owners of the company;</li>
+      <li>The debt securities have fixed maturity period while equities are perpetual in nature;</li>
+      <li>The returns to debt holders are fixed at the time of issuance, whereas the equity holders are entitled to residual profit, but not guaranteed;</li>
+      <li>The debt holders enjoy preference over equity-holders in receiving back payments in case of winding up of the company.</li>
+    </ul>
+  </conbody>
+</concept>

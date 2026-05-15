@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5065" xml:lang="en-us">
+  <title>Depository Receipts</title>
+  <shortdesc>(DRs) are financial instruments that represent shares of a local company but are listed and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>shares</keyword>
+        <keyword>company</keyword>
+        <keyword>stock</keyword>
+        <keyword>issue</keyword>
+        <keyword>Depository</keyword>
+        <keyword>listed</keyword>
+        <indexterm>shares</indexterm>
+        <indexterm>company</indexterm>
+        <indexterm>stock</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Depository receipts (DRs) are financial instruments that represent shares of a local company but are listed and traded on a stock exchange outside the country. DRs are issued in foreign currency, usually in US Dollars. DRs allow overseas investors to easily invest in a company.</p>
+    <p>To issue a DR, a specific quantity underlying equity shares of a company are lodged with a custodian bank, which authorises the issue of depository receipts against the shares. Depending on the country of issue and conditions of issue, the DRs can be converted into equity shares.</p>
+    <p>DRs are called American Depository Receipts (ADRs) if they are listed on a stock exchange in the USA such as the New York Stock Exchange or NASDAQ. If the DRs are listed on a stock exchange outside the US, they are called Global Depository Receipts (GDRs). The listing requirements of stock exchanges can be different in terms of size of the company, state of its finances, shareholding pattern and disclosure requirements.</p>
+    <p>When DRs are issued in India and listed on stock exchanges in India with foreign stocks as underlying shares, these are called Indian Depository Receipts (IDRs).</p>
+    <p>The company, whose shares are traded as DRs, gets a wider investor base from the international markets. Investors in international markets get easy access to invest in shares of an overseas company. Holding DRs, gives investors the right to dividends and capital appreciation from the underlying shares, but not voting rights.</p>
+    <p>The steps in issuing DRs are the following:</p>
+    <ul id="ul_07255221">
+      <li>The company has to comply with the listing requirements of the stock exchange and market regulator where they propose to get the DRs listed.</li>
+      <li>The company appoints a depository bank which will hold the stock and issue DRs against it.</li>
+      <li>If it is a sponsored issue, the stocks from existing shareholders are acquired and delivered to the local custodian of the depository bank. Else, the company issues fresh shares against which the DRs will be issued.</li>
+      <li>Each DR will represent certain number of underlying shares of the company.</li>
+    </ul>
+    <p>Once the custodian confirms that the shares have been received by them, the depository bank in the foreign country will issue the depository receipts to the brokers to trade in the chosen stock exchange where the DRs have been listed.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="introduction_to_securities_map" xml:lang="en-us">
+  <title>Introduction to Securities</title>
+  <topicref href="introduction_to_securities/introduction_to_securities.dita" navtitle="Introduction to Securities" />
+  <topicref href="introduction_to_securities/introduction_to_equity_and_debt.dita" navtitle="Introduction to Equity and Debt" chunk="to-content">
+    <topicref href="introduction_to_securities/contributors.dita" navtitle="Contributors" />
+    <topicref href="introduction_to_securities/time_period.dita" navtitle="Time Period" />
+    <topicref href="introduction_to_securities/cost_of_capital.dita" navtitle="Cost of Capital" />
+    <topicref href="introduction_to_securities/rights_of_the_contributors.dita" navtitle="Rights of the Contributors" />
+  </topicref>
+  <topicref href="introduction_to_securities/features_of_equity_capital_and_benefits_to_equity_investors.dita" navtitle="Features of Equity Capital and Benefits to Equity Investors" chunk="to-content">
+    <topicref href="introduction_to_securities/limited_liability.dita" navtitle="Limited Liability" />
+    <topicref href="introduction_to_securities/ownership_rights.dita" navtitle="Ownership Rights" />
+    <topicref href="introduction_to_securities/liquidity.dita" navtitle="Liquidity" />
+    <topicref href="introduction_to_securities/perpetuity.dita" navtitle="Perpetuity" />
+    <topicref href="introduction_to_securities/uncertain_pay_outs.dita" navtitle="Uncertain Pay-outs" />
+  </topicref>
+  <topicref href="introduction_to_securities/features_of_debt_capital_and_benefits_to_debt_investors.dita" navtitle="Features of Debt Capital and Benefits to Debt Investors" />
+  <topicref href="introduction_to_securities/hybrid_structures.dita" navtitle="Hybrid Structures" chunk="to-content">
+    <topicref href="introduction_to_securities/convertible_debentures.dita" navtitle="Convertible Debentures" />
+    <topicref href="introduction_to_securities/preference_shares.dita" navtitle="Preference Shares" chunk="to-content">
+      <topicref href="introduction_to_securities/chapter_1_sample_questions.dita" navtitle="Chapter 1: Sample Questions" />
+    </topicref>
+  </topicref>
+</map>

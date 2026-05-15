@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3338" xml:lang="en-us">
+  <title>Dividend</title>
+  <shortdesc>The most common corporate action is payment of dividend. Equity shareholders are entitled to share</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>dividend</keyword>
+        <keyword>company</keyword>
+        <keyword>share</keyword>
+        <keyword>declared</keyword>
+        <keyword>Dividend</keyword>
+        <keyword>value</keyword>
+        <indexterm>dividend</indexterm>
+        <indexterm>company</indexterm>
+        <indexterm>share</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The most common corporate action is payment of dividend. Equity shareholders are entitled to share in the profits of the company. One way to do this is through the dividend that the company may periodically declare.</p>
+    <p>Dividend declared by a company is not pre-fixed in terms of the percentage of the dividend or the period when it will be declared. Dividends are declared by the company when there is sufficient profit that can be distributed among the shareholders. The board of directors of the company will take a decision on the dividend to be declared. Shareholders approve such dividend in an annual general meeting.</p>
+    <p>Dividend is computed as a percentage of the face value of the shares. A 40 percent dividend declared by a company will translate into a dividend of Rs 4 for a share with a face or par value of Rs 10 (i.e. 10 40/100), Rs 2 for a share with a face value of Rs 5 (i.e. 5 40/100). To ensure clarity for investors, SEBI has mandated that listed companies declare the dividend in terms of rupee per share.</p>
+    <p>Dividend for a company is usually declared at the end of a year which is called the final dividend. However, companies may also declare dividends during the year, called the interim dividend. Many companies have now made a regular practice of quarterly dividends.</p>
+    <p>The dividend declared by a company is a percentage of the face value of its shares. When the dividend received by an investor is compared to the market price of the share, it is called the dividend yield of the share.</p>
+    <p>
+      <b>Example:</b> A company declares a dividend of 60 percent on its shares which have a face value of Rs 2. The market price of the share is Rs 80. In this case, the dividend amount is Rs 1.20 per share. The dividend yield is 1.5% (1.2/80*100).</p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3303" xml:lang="en-us">
+  <title>Corporate Actions</title>
+  <shortdesc>A corporate action is an event initiated by a public company that will bring an</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Corporate</keyword>
+        <keyword>company</keyword>
+        <keyword>Actions</keyword>
+        <keyword>mdash</keyword>
+        <keyword>corporate</keyword>
+        <keyword>action</keyword>
+        <indexterm>Corporate</indexterm>
+        <indexterm>company</indexterm>
+        <indexterm>Actions</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A corporate action is an event initiated by a public company that will bring an actual change to the securities&amp;mdash;equity or debt&amp;mdash;issued by the company. Corporate actions are typically agreed upon by a company's board of directors and authorized by the shareholders.</p>
+  </conbody>
+</concept>

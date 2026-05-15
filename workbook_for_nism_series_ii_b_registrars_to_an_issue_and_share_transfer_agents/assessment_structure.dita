@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1120" xml:lang="en-us">
+  <title>Assessment Structure</title>
+  <shortdesc>The examination consists of 100 questions of 1 mark each and should be completed in</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>examination</keyword>
+        <keyword>Assessment</keyword>
+        <keyword>Structure</keyword>
+        <keyword>consists</keyword>
+        <keyword>questions</keyword>
+        <keyword>should</keyword>
+        <indexterm>examination</indexterm>
+        <indexterm>Assessment</indexterm>
+        <indexterm>Structure</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The examination consists of 100 questions of 1 mark each and should be completed in 2 hours. The passing score for the examination is 50 percent. There shall be <b>NO Negative Marking</b> in this certification examination.</p>
+  </conbody>
+</concept>

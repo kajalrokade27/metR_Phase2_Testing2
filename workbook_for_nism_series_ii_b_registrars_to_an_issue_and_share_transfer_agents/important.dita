@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e912" xml:lang="en-us">
+  <title>Important</title>
+  <shortdesc>Please note that the Test Centre workstations are equipped with either Microsoft Excel or OpenOffice</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Important</keyword>
+        <keyword>Please</keyword>
+        <keyword>Test</keyword>
+        <keyword>Centre</keyword>
+        <keyword>workstations</keyword>
+        <keyword>equipped</keyword>
+        <indexterm>Important</indexterm>
+        <indexterm>Please</indexterm>
+        <indexterm>Test</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <ul id="ul_072552">
+      <li>Please note that the Test Centre workstations are equipped with either Microsoft Excel or</li>
+      <li>OpenOffice Calc. Therefore, candidates are advised to be well versed with both of these software for computation of numerical.</li>
+      <li>The sample questions and the examples discussed in the workbook are for reference purposes only. The level of difficulty may vary in the actual examination.</li>
+    </ul>
+  </conbody>
+</concept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="characteristics_of_equity_shares_map" xml:lang="en-us">
+  <title>Characteristics of Equity Shares</title>
+  <topicref href="characteristics_of_equity_shares/characteristics_of_equity_shares.dita" navtitle="Characteristics of Equity Shares" />
+  <topicref href="characteristics_of_equity_shares/investors_in_equity_shares.dita" navtitle="Investors in Equity Shares" chunk="to-content">
+    <topicref href="characteristics_of_equity_shares/promoters.dita" navtitle="Promoters" />
+    <topicref href="characteristics_of_equity_shares/institutional_investors.dita" navtitle="Institutional Investors" />
+    <topicref href="characteristics_of_equity_shares/public_investors.dita" navtitle="Public Investors" />
+  </topicref>
+  <topicref href="characteristics_of_equity_shares/rights_of_a_shareholder.dita" navtitle="Rights of a Shareholder" chunk="to-content">
+    <topicref href="characteristics_of_equity_shares/ownership_rights_2.dita" navtitle="Ownership Rights" />
+    <topicref href="characteristics_of_equity_shares/right_to_dividend.dita" navtitle="Right to Dividend" />
+    <topicref href="characteristics_of_equity_shares/ownership_transfer_rights.dita" navtitle="Ownership Transfer Rights" />
+    <topicref href="characteristics_of_equity_shares/other_rights.dita" navtitle="Other Rights" />
+  </topicref>
+  <topicref href="characteristics_of_equity_shares/risks_in_equity_investing.dita" navtitle="Risks in Equity Investing" chunk="to-content">
+    <topicref href="characteristics_of_equity_shares/no_fixed_return.dita" navtitle="No Fixed Return" />
+    <topicref href="characteristics_of_equity_shares/no_fixed_tenor.dita" navtitle="No Fixed Tenor" />
+    <topicref href="characteristics_of_equity_shares/liquidity_risk.dita" navtitle="Liquidity Risk" />
+    <topicref href="characteristics_of_equity_shares/no_collateral_security.dita" navtitle="No Collateral Security" />
+  </topicref>
+  <topicref href="characteristics_of_equity_shares/equity_terminology.dita" navtitle="Equity Terminology" chunk="to-content">
+    <topicref href="characteristics_of_equity_shares/face_value.dita" navtitle="Face Value" />
+    <topicref href="characteristics_of_equity_shares/share_premium.dita" navtitle="Share Premium" />
+    <topicref href="characteristics_of_equity_shares/authorised_capital.dita" navtitle="Authorised Capital" />
+    <topicref href="characteristics_of_equity_shares/issued_capital.dita" navtitle="Issued Capital" />
+    <topicref href="characteristics_of_equity_shares/paid_up_capital.dita" navtitle="Paid-up Capital" />
+    <topicref href="characteristics_of_equity_shares/outstanding_shares.dita" navtitle="Outstanding shares" />
+    <topicref href="characteristics_of_equity_shares/fully_paid_up_shares.dita" navtitle="Fully Paid-up Shares" />
+    <topicref href="characteristics_of_equity_shares/partly_paid_up_shares.dita" navtitle="Partly Paid-up Shares" />
+  </topicref>
+  <topicref href="characteristics_of_equity_shares/corporate_actions.dita" navtitle="Corporate Actions" chunk="to-content">
+    <topicref href="characteristics_of_equity_shares/dividend.dita" navtitle="Dividend" />
+    <topicref href="characteristics_of_equity_shares/buyback_of_shares.dita" navtitle="Buyback of shares" />
+    <topicref href="characteristics_of_equity_shares/bonus_issue.dita" navtitle="Bonus issue" />
+    <topicref href="characteristics_of_equity_shares/stock_split_and_consolidation.dita" navtitle="Stock Split and Consolidation" />
+  </topicref>
+  <topicref href="characteristics_of_equity_shares/preference_shares_2.dita" navtitle="Preference Shares" />
+  <topicref href="characteristics_of_equity_shares/rights_issue_of_shares.dita" navtitle="Rights Issue of Shares" />
+  <topicref href="characteristics_of_equity_shares/preferential_issue.dita" navtitle="Preferential Issue" chunk="to-content">
+    <topicref href="characteristics_of_equity_shares/chapter_2_sample_questions.dita" navtitle="Chapter 2: Sample Questions" />
+  </topicref>
+</map>

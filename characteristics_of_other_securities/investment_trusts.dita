@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5370" xml:lang="en-us">
+  <title>Investment Trusts</title>
+  <shortdesc>An Investment Trust pools the funds of its investors/ shareholders and invests them in a</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Investment</keyword>
+        <keyword>Trusts</keyword>
+        <keyword>funds</keyword>
+        <keyword>Trust</keyword>
+        <keyword>pools</keyword>
+        <keyword>investors</keyword>
+        <indexterm>Investment</indexterm>
+        <indexterm>Trusts</indexterm>
+        <indexterm>funds</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>An Investment Trust pools the funds of its investors/ shareholders and invests them in a diversified portfolio of securities. Investment Trusts are typically close ended funds which can be traded on a stock exchange. In Indian markets, 2 types of investment trusts are operational under the appropriate SEBI Regulations.</p>
+  </conbody>
+</concept>

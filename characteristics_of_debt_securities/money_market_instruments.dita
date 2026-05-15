@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4723" xml:lang="en-us">
+  <title>Money Market Instruments</title>
+  <shortdesc>Money market refers to the market where instruments with a maturity of less than one</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>market</keyword>
+        <keyword>Money</keyword>
+        <keyword>Instruments</keyword>
+        <keyword>Market</keyword>
+        <keyword>banks</keyword>
+        <keyword>money</keyword>
+        <indexterm>market</indexterm>
+        <indexterm>Money</indexterm>
+        <indexterm>Instruments</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Money market refers to the market where instruments with a maturity of less than one year are issued and traded. Money market participants are generally commercial banks and the central bank. The money market is the platform for banks and government to finance their short term capital requirements. It is a wholesale market with large volumes. It is considered the most liquid of all financial markets with borrowing and lending transactions done for shorter periods such as one day. Instruments in money markets include Commercial papers, Certificates of deposit, Treasury Bills etc. that are due to mature within 365 days, and long term government debt.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2051" xml:lang="en-us">
+  <title>Hybrid Structures</title>
+  <shortdesc>Companies may raise capital in a form that combines the features of both debt and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Hybrid</keyword>
+        <keyword>Structures</keyword>
+        <keyword>Companies</keyword>
+        <keyword>raise</keyword>
+        <keyword>capital</keyword>
+        <keyword>combines</keyword>
+        <indexterm>Hybrid</indexterm>
+        <indexterm>Structures</indexterm>
+        <indexterm>Companies</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Companies may raise capital in a form that combines the features of both debt and equity. These are called hybrid instruments.</p>
+  </conbody>
+</concept>

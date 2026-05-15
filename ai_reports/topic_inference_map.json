@@ -1,0 +1,3525 @@
+{
+  "Amortising Bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.0,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 89
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Amortising",
+        "Bonds",
+        "bond",
+        "amortising",
+        "principal",
+        "loans",
+        "bonds",
+        "repaid",
+        "maturity",
+        "over",
+        "structure",
+        "some"
+      ],
+      "compact_excerpt": "Amortising Bonds The structure of some bonds may be such that the principal is not repaid at the end/maturity, but over the life of the bond. A bond in which payments that are made by the borrower includes both interest and principal, is called an amortising bond. Auto loans, consumer loans and home loans are examples of amortising bonds. The maturity of the amortising bond refers only to the last"
+    },
+    "classified_at": 1778829953.7927012
+  },
+  "Classification of Debt Market": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.044,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 198
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "term",
+        "bond",
+        "bonds",
+        "issued",
+        "government",
+        "credit",
+        "Classification",
+        "Debt",
+        "Market",
+        "segment",
+        "markets",
+        "borrower"
+      ],
+      "compact_excerpt": "Classification of Debt Market There are two broad ways in which bond markets can be segmented. Based on the type of borrower, we can segment the market between the bonds issued by governments, and those issued by non-government agencies like banks, corporations and other such entities. Based on the tenor of the instrument, we can segment the bond markets as short term, medium term and long term. T"
+    },
+    "classified_at": 1778829953.8011513
+  },
+  "Asset-backed Securities": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.011,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 99
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Asset",
+        "backed",
+        "Securities",
+        "bonds",
+        "securities",
+        "represent",
+        "created",
+        "creating",
+        "cash",
+        "flows",
+        "asset",
+        "housing"
+      ],
+      "compact_excerpt": "Asset-backed Securities Asset backed securities represent a class of fixed income products, created out of pooling together assets, and creating bonds that represent participation in the cash flows from the asset pool. For example, select housing loans of a loan originator (say, a housing finance company) can be pooled, and bonds can be created, which represent a claim on the repayments made by ho"
+    },
+    "classified_at": 1778829953.8090467
+  },
+  "Chapter 3: Sample Questions": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.022,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 98
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "rate",
+        "Chapter",
+        "Sample",
+        "Questions",
+        "term",
+        "bond",
+        "interest",
+        "bonds",
+        "short",
+        "long",
+        "refers",
+        "payable"
+      ],
+      "compact_excerpt": "Chapter 3: Sample Questions _________ of a bond refers to the interest payable on a bond. Coupon Inflation rate on Principal Market Price Face Value A bond with a higher credit rating will pay _______ interest rates. The prices of bonds are ___\\_____ related to interest rate movements. Treasury bills are essentially ______ debt securities while deep discount bonds are _____ ones. ______ is a refer"
+    },
+    "classified_at": 1778829953.818121
+  },
+  "Characteristics of Debt Securities": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.033,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 44
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Debt",
+        "Characteristics",
+        "Securities",
+        "Features",
+        "Market",
+        "debt",
+        "instruments",
+        "Bonds",
+        "LEARNING",
+        "OBJECTIVES",
+        "After",
+        "studying"
+      ],
+      "compact_excerpt": "Characteristics of Debt Securities LEARNING OBJECTIVES: After studying this chapter, you should know about: Features of Debt Security Market value of debt securities Yield to Maturity of debt instruments Types of Bonds Features of Fixed and Floating Rate Bonds Credit Rating Money Market instruments"
+    },
+    "classified_at": 1778829953.8256102
+  },
+  "Convertible Debt Securities": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.055,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 8,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 166
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "debt",
+        "securities",
+        "Convertible",
+        "Debt",
+        "Securities",
+        "equity",
+        "converted",
+        "lower",
+        "convertible",
+        "coupon",
+        "maturity",
+        "into"
+      ],
+      "compact_excerpt": "Convertible Debt Securities As already discussed in Unit 1, convertible debt securities are hybrid instruments with features both of debt and equity. These securities pay the pre-determined coupon payments to the holders and on maturity the same is converted into equity based on pre-defined terms. The convertible debt securities are more suitable for low credit rating companies and companies with "
+    },
+    "classified_at": 1778829954.1622303
+  },
+  "Fixed Rate Bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.099,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 143
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Fixed",
+        "Rate",
+        "Bonds",
+        "bond",
+        "bonds",
+        "interest",
+        "plain",
+        "vanilla",
+        "rate",
+        "defined",
+        "fixed",
+        "maturity"
+      ],
+      "compact_excerpt": "Fixed Rate Bonds Fixed rate bonds pay a pre-defined interest that are payable at specified intervals. Such bonds are also called as the plain vanilla bonds . A plain vanilla bond will have a fixed term to maturity with coupon being paid at pre-defined periods and the principal amount is repaid on maturity. The bond is usually issued at its face value and redeemed at par. The simple variations to t"
+    },
+    "classified_at": 1778829954.1696746
+  },
+  "Current Yield": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.077,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 63
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Current",
+        "Yield",
+        "bond",
+        "yield",
+        "market",
+        "coupon",
+        "price",
+        "percent",
+        "simply",
+        "compares",
+        "Coupon",
+        "divided"
+      ],
+      "compact_excerpt": "Current Yield Current yield simply compares the coupon of a bond with its market price (Coupon of the bond divided by its market price). For example, if a bond paying an annual coupon of 12 percent is trading in the market for Rs. 109.50, then the current yield is: 12/109.5 = 10.95 percent. Current yield is a measure of return of a bond."
+    },
+    "classified_at": 1778829954.1780882
+  },
+  "Features of a Debt Security": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.088,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 19,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 324
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "debt",
+        "holders",
+        "bond",
+        "value",
+        "Features",
+        "Debt",
+        "Security",
+        "company",
+        "principal",
+        "maturity",
+        "debenture",
+        "issuer"
+      ],
+      "compact_excerpt": "Features of a Debt Security A debt security denotes a contract between the issuer (company) and the lender (investor) which allows the issuer to borrow a sum of money at pre-determined terms. These terms are referred to as the features of a bond and include the principal, coupon (interest rate) and the maturity date of the bond. In Indian securities markets, a debt instrument denoting the borrowin"
+    },
+    "classified_at": 1778829954.1873112
+  },
+  "Credit Rating": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.066,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 39,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 1413
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "rating",
+        "timely",
+        "considered",
+        "regarding",
+        "risk",
+        "credit",
+        "instruments",
+        "Rating",
+        "degree",
+        "safety",
+        "Instruments",
+        "obligations"
+      ],
+      "compact_excerpt": "Credit Rating The biggest risk faced by investors in debt securities is the possibility of the borrower not honouring their commitment on payment of interest on the borrowing and repayment of the principal on maturity of the instruments. The ability of the borrower to meet its obligation will depend upon factors internal and external to the business. Lenders therefore evaluate these factors associ"
+    },
+    "classified_at": 1778829954.1986108
+  },
+  "Market Value of a Debt security": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.132,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 104
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "value",
+        "Market",
+        "Value",
+        "Debt",
+        "debt",
+        "instrument",
+        "market",
+        "face",
+        "which",
+        "maturity",
+        "such",
+        "security"
+      ],
+      "compact_excerpt": "Market Value of a Debt security As stated earlier, the face value or par value of a debt instrument is its book value that represents the principal amount of the borrowing which is to be repaid to the investor at the time of maturity. If the debt instrument is traded in the market before its maturity, the value at which such trade is executed is called the market value of the debt instrument. Mark"
+    },
+    "classified_at": 1778829954.53322
+  },
+  "Other types of bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.154,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 55
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Other",
+        "bonds",
+        "interest",
+        "where",
+        "initial",
+        "types",
+        "Some",
+        "other",
+        "structures",
+        "deferred",
+        "borrower",
+        "could"
+      ],
+      "compact_excerpt": "Other types of bonds Some of other structures are: (a) deferred interest bonds, where the borrower could defer the payment of coupons in the initial 1 to 3 year period; (b) Step-up bonds, where the coupon is stepped up periodically, so that the interest burden in the initial years is lower, and increases over time."
+    },
+    "classified_at": 1778829954.5406148
+  },
+  "Floating Rate Bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.11,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 11,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 164
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "rate",
+        "bonds",
+        "Rate",
+        "reset",
+        "Floating",
+        "Bonds",
+        "year",
+        "benchmark",
+        "coupon",
+        "floating",
+        "which",
+        "based"
+      ],
+      "compact_excerpt": "Floating Rate Bonds Instead of a pre-determined rate at which coupons are paid, it is possible to structure bonds, where the rate of interest is reset periodically, based on a benchmark rate such as RBI Repo Rate. Such bonds whose coupon rate is not fixed, but reset with reference to a benchmark rate, are called floating rate bonds. For example, a company can issue a 5 year floating rate bond, wit"
+    },
+    "classified_at": 1778829954.5454934
+  },
+  "Money Market Instruments": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.143,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 7,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 108
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Money",
+        "Instruments",
+        "market",
+        "Market",
+        "banks",
+        "money",
+        "government",
+        "term",
+        "markets",
+        "refers",
+        "where",
+        "instruments"
+      ],
+      "compact_excerpt": "Money Market Instruments Money market refers to the market where instruments with a maturity of less than one year are issued and traded. Money market participants are generally commercial banks and the central bank. The money market is the platform for banks and government to finance their short term capital requirements. It is a wholesale market with large volumes. It is considered the most liqu"
+    },
+    "classified_at": 1778829954.554844
+  },
+  "Inflation Indexed Bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.121,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 39
+      },
+      "context_frame": "introductory",
+      "keyword_set": [
+        "Inflation",
+        "Indexed",
+        "Bonds",
+        "rate",
+        "inflation",
+        "IIB",
+        "category",
+        "floating",
+        "bonds",
+        "where",
+        "benchmark",
+        "Such"
+      ],
+      "compact_excerpt": "Inflation Indexed Bonds Inflation Indexed Bonds (IIB) are a category of floating rate bonds where the benchmark is the inflation rate. Such instruments are generally government securities issued by the RBI that provides inflation protected returns to the investors."
+    },
+    "classified_at": 1778829954.5964415
+  },
+  "Zero Coupon Bond": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.209,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 11,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 137
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "bond",
+        "Zero",
+        "Coupon",
+        "Bond",
+        "interest",
+        "issued",
+        "discount",
+        "value",
+        "such",
+        "face",
+        "There",
+        "payments"
+      ],
+      "compact_excerpt": "Zero Coupon Bond In such a bond, no coupons are paid or specified. The bond is issued at a discount to its face value. There are no intermittent payments of interest. When such a bond is issued for a very long tenor, the issue price is at a steep discount to the redemption value. Such a zero coupon bond is also called a deep discount bond . The effective or implied interest earned by the buyer is "
+    },
+    "classified_at": 1778829954.89025
+  },
+  "Yield to Maturity (YTM)": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.198,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 1,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 112
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "bond",
+        "Yield",
+        "YTM",
+        "Maturity",
+        "cash",
+        "flows",
+        "value",
+        "maturity",
+        "time",
+        "price",
+        "which",
+        "discounted"
+      ],
+      "compact_excerpt": "Yield to Maturity (YTM) Yield to maturity (YTM) is a popular and extensively used method for computing the return on a bond investment. Every bond is made up of a set of cash flows that accrue at various points in time, from the time the bond is acquired, until it is sold or redeemed. Therefore, using the principle of finance to value the bond, the price at which the series of future cash flows sh"
+    },
+    "classified_at": 1778829954.898562
+  },
+  "Yield from Debt Instruments": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.187,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 121
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "investor",
+        "Yield",
+        "Debt",
+        "Instruments",
+        "returns",
+        "coupon",
+        "bond",
+        "bonds",
+        "yield",
+        "case",
+        "rate",
+        "lsquo"
+      ],
+      "compact_excerpt": "Yield from Debt Instruments The return to an investor in bonds is known as yield. The returns to an investor in bonds, is primarily made up of the coupon payments. However, if the investor acquires or sells the bond at a price that is different from the par value it generates capital gains or loss, as the case may be. The returns to the investor in such a case can vary from the coupon. Therefore, "
+    },
+    "classified_at": 1778829954.9077077
+  },
+  "Authorised Capital": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.22,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 30
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Authorised",
+        "Capital",
+        "capital",
+        "company",
+        "maximum",
+        "amount",
+        "equity",
+        "defined",
+        "Memorandum",
+        "Association",
+        "MoA",
+        "called"
+      ],
+      "compact_excerpt": "Authorised Capital The maximum amount of equity capital that a company will have is defined in the Memorandum of Association (MoA) of the company and is called its authorised capital."
+    },
+    "classified_at": 1778829954.9314783
+  },
+  "Unrated Bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.176,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 50
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Bonds",
+        "Unrated",
+        "unrated",
+        "instruments",
+        "rating",
+        "current",
+        "valid",
+        "external",
+        "agency",
+        "bonds",
+        "Since",
+        "more"
+      ],
+      "compact_excerpt": "Unrated Bonds Bonds that do not have any current or valid rating by an external rating agency are unrated bonds. Since unrated instruments are more illiquid than rated instruments, the yield of such unrated instruments is higher. SEBI has provided guidelines for mutual funds on investments in unrated debt instruments."
+    },
+    "classified_at": 1778829954.9979146
+  },
+  "Buyback of shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.242,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 69
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Buyback",
+        "shares",
+        "company",
+        "buyback",
+        "shareholders",
+        "share",
+        "refers",
+        "repurchase",
+        "existing",
+        "During",
+        "usually",
+        "offers"
+      ],
+      "compact_excerpt": "Buyback of shares Buyback of shares refers to repurchase of shares by the company from its existing shareholders. During the buyback, the company usually offers a higher price to the shareholders. However, participation in a share buyback is voluntary. The shares acquired by a company in buyback are extinguished and this results in reduction of share capital. Buyback of securities are governed by "
+    },
+    "classified_at": 1778829955.2334766
+  },
+  "Bonus issue": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.231,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 88
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "issue",
+        "Bonus",
+        "shares",
+        "bonus",
+        "company",
+        "shareholders",
+        "number",
+        "ABC",
+        "Company",
+        "Ltd",
+        "additional",
+        "existing"
+      ],
+      "compact_excerpt": "Bonus issue A company may issue additional shares to existing shareholders without any capital contribution from the shareholders based on the number of shares an investor holds. This is known as a bonus issue. The bonus is issued against accumulated profit of the company. Bonus issue results in increase in number of outstanding shares of the company. Example: ABC Company Ltd. declares a bonus iss"
+    },
+    "classified_at": 1778829955.264576
+  },
+  "Characteristics of Equity Shares": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.264,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 38
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Equity",
+        "Shares",
+        "Characteristics",
+        "Rights",
+        "Issue",
+        "LEARNING",
+        "OBJECTIVES",
+        "After",
+        "studying",
+        "chapter",
+        "should",
+        "know"
+      ],
+      "compact_excerpt": "Characteristics of Equity Shares LEARNING OBJECTIVES: After studying this chapter, you should know about: Investors in equity shares Rights of a Shareholder Risks in Equity Investing Equity related terminology Corporate Actions Preference Shares, Rights Issue and Preferential Issue"
+    },
+    "classified_at": 1778829955.273438
+  },
+  "Chapter 2: Sample Questions": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.253,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 7,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 135
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Rs",
+        "issue",
+        "shares",
+        "Chapter",
+        "Sample",
+        "Questions",
+        "permitted",
+        "dividend",
+        "equity",
+        "investor",
+        "company",
+        "Dividend"
+      ],
+      "compact_excerpt": "Chapter 2: Sample Questions _____ rights give the equity investor a say in the management of the company. Voting Dividend Both voting and dividend A 20 percent dividend declared on face value of Rs 10 and market price of Rs 120 translates into a dividend payout of _____. A share split ____________________________. Which of the following is/are examples of corporate actions? A company may issue add"
+    },
+    "classified_at": 1778829955.3077471
+  },
+  "Corporate Actions": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.275,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 44
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Corporate",
+        "Actions",
+        "company",
+        "mdash",
+        "corporate",
+        "action",
+        "event",
+        "initiated",
+        "public",
+        "bring",
+        "actual",
+        "change"
+      ],
+      "compact_excerpt": "Corporate Actions A corporate action is an event initiated by a public company that will bring an actual change to the securities&mdash;equity or debt&mdash;issued by the company. Corporate actions are typically agreed upon by a company's board of directors and authorized by the shareholders."
+    },
+    "classified_at": 1778829955.3432188
+  },
+  "Dividend": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.286,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 15,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 314
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "dividend",
+        "company",
+        "share",
+        "Dividend",
+        "declared",
+        "Rs",
+        "face",
+        "value",
+        "declare",
+        "percentage",
+        "shares",
+        "companies"
+      ],
+      "compact_excerpt": "Dividend The most common corporate action is payment of dividend. Equity shareholders are entitled to share in the profits of the company. One way to do this is through the dividend that the company may periodically declare. Dividend declared by a company is not pre-fixed in terms of the percentage of the dividend or the period when it will be declared. Dividends are declared by the company when t"
+    },
+    "classified_at": 1778829955.5687509
+  },
+  "Fully Paid-up Shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.319,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 26
+      },
+      "context_frame": "introductory",
+      "keyword_set": [
+        "Fully",
+        "Paid",
+        "Shares",
+        "amount",
+        "paid",
+        "shares",
+        "those",
+        "which",
+        "entire",
+        "face",
+        "value",
+        "collected"
+      ],
+      "compact_excerpt": "Fully Paid-up Shares Fully paid shares are those, of which entire face value amount is collected from shareholders upfront. Shareholder is not liable for any amount."
+    },
+    "classified_at": 1778829955.604383
+  },
+  "Face Value": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.308,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 119
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "value",
+        "Face",
+        "Value",
+        "company",
+        "face",
+        "shares",
+        "lakh",
+        "share",
+        "Rs",
+        "each",
+        "equity",
+        "total"
+      ],
+      "compact_excerpt": "Face Value The total equity capital required by a company is divided into smaller denomination called the face value or par value of the equity shares. Face value of a share is the value of a company listed in its books and share certificates and is fixed. Face value of a share helps in calculating the dividend pay-out to the investors when dividends are declared by the company. Example: If a comp"
+    },
+    "classified_at": 1778829955.645172
+  },
+  "Institutional Investors": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.33,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 231
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "investors",
+        "Institutional",
+        "capital",
+        "Investors",
+        "venture",
+        "firms",
+        "mutual",
+        "funds",
+        "like",
+        "financial",
+        "institutions",
+        "others"
+      ],
+      "compact_excerpt": "Institutional Investors Institutional investors include financial institutions, venture capital firms, mutual funds, foreign financial institutions and banks among others. These are professional investors who have the ability to evaluate the business proposition, the risks associated with it and the expected returns. The company may allot shares to such investors through a private placement or pre"
+    },
+    "classified_at": 1778829955.6600237
+  },
+  "Investors in Equity Shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.341,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 80
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Equity",
+        "company",
+        "Investors",
+        "Shares",
+        "capital",
+        "investors",
+        "equity",
+        "terms",
+        "returns",
+        "control",
+        "different",
+        "categories"
+      ],
+      "compact_excerpt": "Investors in Equity Shares A company raises equity capital to meet its need for long-term funds for expansion or continuing operations of the company. Equity capital does not impose any liability on the company in terms of returns or repayment. However, when a company issues equity capital, the investors also get proportionate control and ownership. A company can raise capital from different categ"
+    },
+    "classified_at": 1778829955.6805692
+  },
+  "Liquidity Risk": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.363,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 95
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Liquidity",
+        "Risk",
+        "shares",
+        "shareholder",
+        "sell",
+        "price",
+        "risk",
+        "value",
+        "right",
+        "other",
+        "investors",
+        "However"
+      ],
+      "compact_excerpt": "Liquidity Risk A shareholder has the right to sell his shares to other investors. However, there may be a difference between the price expected by the seller and the price offered by the potential buyer. This is referred to as &ldquo;bid ask spread&rdquo; or liquidity risk. The risk to the shareholder arises if the shares are illiquid and not easily sold at its market value or if the shares are un"
+    },
+    "classified_at": 1778829955.965796
+  },
+  "No Collateral Security": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.374,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 108
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "company",
+        "Collateral",
+        "Security",
+        "assets",
+        "claims",
+        "equity",
+        "shareholders",
+        "No",
+        "capital",
+        "creditors",
+        "only",
+        "after"
+      ],
+      "compact_excerpt": "No Collateral Security Equity capital is not secured by the assets of the company. The cash and assets of the company are first applied to settle the claims of the lenders and creditors. The claims of the equity shareholders always rank last in order of preference. During the normal course of operations of the company, dividends are payable to the equity shareholders only after the expenses, inter"
+    },
+    "classified_at": 1778829955.9940488
+  },
+  "No Fixed Return": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.385,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 8,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 177
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "company",
+        "Fixed",
+        "Return",
+        "equity",
+        "return",
+        "dividend",
+        "profits",
+        "shares",
+        "No",
+        "made",
+        "makes",
+        "shareholders"
+      ],
+      "compact_excerpt": "No Fixed Return The return in the form of dividend from equity is not pre-defined either in terms of the percentage of dividend or the date on which the payment will be made. Dividend is paid if the company makes sufficient profits and the management of the company feels it is appropriate for some of the profits to be distributed among the shareholders. In case the company makes losses or the prof"
+    },
+    "classified_at": 1778829956.004056
+  },
+  "Issued Capital": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.352,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 83
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "capital",
+        "issued",
+        "Issued",
+        "Capital",
+        "face",
+        "value",
+        "company",
+        "portion",
+        "authorised",
+        "investors",
+        "than",
+        "issue"
+      ],
+      "compact_excerpt": "Issued Capital The company may issue a portion of its authorised capital as and when it requires capital. The capital may be issued to the promoters, public or to specified investors. The portion of authorised capital that has been issued to investors is called issued capital. The capital may be issued by the company either at its face value or at a premium (higher than the face value). In special"
+    },
+    "classified_at": 1778829956.0196018
+  },
+  "No Fixed Tenor": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.396,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 49
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Fixed",
+        "Tenor",
+        "No",
+        "shares",
+        "Equity",
+        "issued",
+        "perpetuity",
+        "means",
+        "there",
+        "period",
+        "maturity",
+        "after"
+      ],
+      "compact_excerpt": "No Fixed Tenor Equity shares are issued for perpetuity. This means that there is no period of maturity after which the money will be returned to the shareholders. Investors who want to exit their investments may do so by selling the shares on the stock exchange to other investors."
+    },
+    "classified_at": 1778829956.0310884
+  },
+  "Other Rights": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.407,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 70
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Other",
+        "Rights",
+        "rights",
+        "right",
+        "such",
+        "company",
+        "Anti",
+        "Shareholders",
+        "other",
+        "inspect",
+        "documents",
+        "related"
+      ],
+      "compact_excerpt": "Other Rights Shareholders have other rights such as right to inspect documents related to company workings, right to legal recourse in case of mis-management or wrong disclosure. Also shareholders are sometimes provided with certain special rights such as Anti-dilution rights. Anti-Dilution provision gives an investor the right to maintain the same percentage ownership in a company by purchasing a"
+    },
+    "classified_at": 1778829956.3005614
+  },
+  "Outstanding shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.418,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 8,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 193
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "capital",
+        "Rs",
+        "Crore",
+        "Outstanding",
+        "shares",
+        "issued",
+        "company",
+        "crore",
+        "Authorised",
+        "after",
+        "months",
+        "Issued"
+      ],
+      "compact_excerpt": "Outstanding shares Outstanding shares refer to the total number of shares issued by the company to its investors (including retail and institutions). Example: A company decides that the maximum equity capital it needs is Rs. 20 crore. In the initial stages, the need is Rs.10 crore. It issues equity shares of Rs.10 face value, at par. Investors are required to pay Rs.5 per share with application, R"
+    },
+    "classified_at": 1778829956.3583107
+  },
+  "Ownership Transfer Rights": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.44,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 38
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Ownership",
+        "Transfer",
+        "Rights",
+        "investors",
+        "shares",
+        "company",
+        "required",
+        "return",
+        "equity",
+        "capital",
+        "investor",
+        "perpetual"
+      ],
+      "compact_excerpt": "Ownership Transfer Rights A company is not required to return the equity capital to the investor as it is perpetual in nature. However, investors can sell their shares to other investors who may want to buy the shares."
+    },
+    "classified_at": 1778829956.367528
+  },
+  "Ownership Rights": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.813,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 146
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "company",
+        "Ownership",
+        "Rights",
+        "Equity",
+        "shareholders",
+        "shares",
+        "equity",
+        "capital",
+        "Rs",
+        "investor",
+        "owns",
+        "participate"
+      ],
+      "compact_excerpt": "Ownership Rights Equity represents ownership of the company. Equity shareholders are owners of the company in proportion of the shares held. For example , if a company has an issued and paid-up capital of Rs.10 crore made up of 1 crore_ shares of Rs.10 each, and an investor owns 10 lakh equity shares, such investor owns 10% of the company. Equity shareholders have the right to participate in the m"
+    },
+    "classified_at": 1778829959.229984
+  },
+  "Paid-up Capital": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.451,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 51
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paid",
+        "Capital",
+        "capital",
+        "issued",
+        "company",
+        "paid",
+        "When",
+        "investors",
+        "subscribe",
+        "they",
+        "required",
+        "entire"
+      ],
+      "compact_excerpt": "Paid-up Capital When investors subscribe to the capital issued by a company, they may be required to pay the entire price at the time of issue or in tranches (instalments). The portion of the issued capital that has been fully paid-up by the shareholders is the paid-up capital of the company."
+    },
+    "classified_at": 1778829956.3870573
+  },
+  "Partly Paid-up Shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.462,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 67
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Partly",
+        "Paid",
+        "Shares",
+        "call",
+        "paid",
+        "shares",
+        "amount",
+        "company",
+        "shareholder",
+        "money",
+        "those",
+        "which"
+      ],
+      "compact_excerpt": "Partly Paid-up Shares Partly paid-up shares are those on which entire face value amount is not collected from shareholders upfront. That means, company can make call for balance unpaid portion and the shareholder will be liable to pay such call money. If the shareholder does not pay the call money as per schedule, the shares can be forfeited, including the amount already paid thereon, by the compa"
+    },
+    "classified_at": 1778829956.6400707
+  },
+  "Preferential Issue": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.483,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 47
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Preferential",
+        "Issue",
+        "issue",
+        "existing",
+        "shareholders",
+        "company",
+        "shares",
+        "strategic",
+        "investor",
+        "collaborator",
+        "negotiated",
+        "price"
+      ],
+      "compact_excerpt": "Preferential Issue A company may issue shares to a strategic investor or collaborator at a pre-negotiated price. The pricing for such an issue is determined under various SEBI guidelines. A preferential issue dilutes (reduces) the proportionate rights of existing shareholders and thus requires approval of existing shareholders."
+    },
+    "classified_at": 1778829956.725565
+  },
+  "Preference Shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.835,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 57
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Preference",
+        "Shares",
+        "shares",
+        "they",
+        "dividend",
+        "over",
+        "company",
+        "resemble",
+        "debt",
+        "instruments",
+        "because",
+        "offer"
+      ],
+      "compact_excerpt": "Preference Shares Preference shares resemble debt instruments because they offer pre-determined rate of dividend. However, they do not have a fixed maturity period or a right over the assets of the company. They have a preference in the payment of dividend over ordinary equity shares and in the return of capital, if the company is wound up."
+    },
+    "classified_at": 1778829959.3840656
+  },
+  "Promoters": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.494,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 7,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 146
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Promoters",
+        "capital",
+        "business",
+        "investors",
+        "company",
+        "bring",
+        "initial",
+        "promoters",
+        "required",
+        "stage",
+        "control",
+        "promoter"
+      ],
+      "compact_excerpt": "Promoters Promoters are the group of investors who set up the company and bring in the initial capital required to start the business. This is the risk capital. At the initial stage, the entire control of the company is with the promoters. They may bring in additional capital as and when required. As the capital needs of the business grow, promoters may invite other investors. These may include bo"
+    },
+    "classified_at": 1778829956.7841723
+  },
+  "Public Investors": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.505,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 251
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "company",
+        "shares",
+        "investors",
+        "public",
+        "Public",
+        "Investors",
+        "held",
+        "equity",
+        "information",
+        "institutional",
+        "When",
+        "promoters"
+      ],
+      "compact_excerpt": "Public Investors When the equity shares are held by promoters and a few investors, it is said to be a closely held company. Such companies may also be private companies, which are not required to disclose too much of information about themselves to the public or the regulators. When a company offers its equity shares to the public at large and lists its shares on a stock exchange, it moves from be"
+    },
+    "classified_at": 1778829956.8655467
+  },
+  "Right to Dividend": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.516,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 43
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Right",
+        "Dividend",
+        "company",
+        "Ownership",
+        "rights",
+        "also",
+        "mean",
+        "investors",
+        "hold",
+        "equity",
+        "shares",
+        "entitled"
+      ],
+      "compact_excerpt": "Right to Dividend Ownership rights in a company also mean that the investors who hold equity shares are entitled to participate in the profits of the company. This participation will be in the form of dividends that are periodically declared by the company."
+    },
+    "classified_at": 1778829956.9760735
+  },
+  "Rights Issue of Shares": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.527,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 259
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "capital",
+        "company",
+        "issue",
+        "shares",
+        "existing",
+        "Rights",
+        "rights",
+        "Issue",
+        "Shares",
+        "shareholders",
+        "equity",
+        "proportionate"
+      ],
+      "compact_excerpt": "Rights Issue of Shares A company may raise equity capital from its investors at various times. Whenever a company makes a fresh issue of shares, it has an impact on the existing shareholders since their proportionate holding in the shares of the company gets diluted. A rights issue is subject to various SEBI regulations. For example, a company may have 10 lakh outstanding shares of Rs.10 each, amo"
+    },
+    "classified_at": 1778829957.0769396
+  },
+  "Risks in Equity Investing": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.549,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 20
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Risks",
+        "Equity",
+        "Investing",
+        "Investment",
+        "equity",
+        "shares",
+        "also",
+        "involves",
+        "certain",
+        "risks",
+        "investors",
+        "They"
+      ],
+      "compact_excerpt": "Risks in Equity Investing Investment in equity shares also involves certain risks to the investors. They are explained as follows:"
+    },
+    "classified_at": 1778829957.120695
+  },
+  "Rights of a Shareholder": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.538,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 62
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Rights",
+        "Shareholder",
+        "capital",
+        "features",
+        "equity",
+        "company",
+        "debt",
+        "shareholders",
+        "rights",
+        "Equity",
+        "share",
+        "distinct"
+      ],
+      "compact_excerpt": "Rights of a Shareholder Equity share capital has distinct features which define its risk and return. These features determine the suitability of raising equity capital for the company over other sources of financing such as debt. The equity shareholders have specific rights and privileges in the company as compared to debt holders. Some of the rights of common shareholders are discussed below:"
+    },
+    "classified_at": 1778829957.1619532
+  },
+  "Share Premium": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.56,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 88
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Rs",
+        "Share",
+        "Premium",
+        "value",
+        "face",
+        "share",
+        "company",
+        "each",
+        "shares",
+        "Companies",
+        "issue",
+        "prices"
+      ],
+      "compact_excerpt": "Share Premium Companies issue shares at face value or at prices higher than the face value depending on the future prospects of the company. The excess amount received by the company over the face value is called the share premium. Example: A company issues 1 lakh equity shares of face value of Rs. 10 each, to the public at Rs. 50 per share, i.e. Face Value of each share is Rs. 10 (par value) and "
+    },
+    "classified_at": 1778829957.2106693
+  },
+  "Characteristics of Other Securities": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.593,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 92
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Characteristics",
+        "Other",
+        "Securities",
+        "such",
+        "Convertible",
+        "Funds",
+        "Investment",
+        "Trusts",
+        "instruments",
+        "better",
+        "Learning",
+        "Objectives"
+      ],
+      "compact_excerpt": "Characteristics of Other Securities Learning Objectives: After studying this chapter, you should know about other types of securities such as: Warrants Convertible Debentures (CDs) Depository Receipts (DRs) Foreign Currency Convertible Bonds (FCCBs) Exchange Traded Funds (ETFs) and Index Funds Real Estate Investment Trusts (REITs) Infrastructure Investment Trusts (InvITs) Companies raise capital u"
+    },
+    "classified_at": 1778829957.464192
+  },
+  "Convertible Debentures": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.714,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 95
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Convertible",
+        "Debentures",
+        "debt",
+        "maturity",
+        "conversion",
+        "instrument",
+        "converted",
+        "into",
+        "equity",
+        "shares",
+        "price",
+        "debentures"
+      ],
+      "compact_excerpt": "Convertible Debentures Convertible debentures pay interest like any other debt instrument till the date of maturity. On maturity, the debt is converted into equity shares. The terms of conversion, such as the number of equity shares that each debenture will be converted into and the price at which the conversion will take place are mentioned at the time of the issue of the debt instrument. They ar"
+    },
+    "classified_at": 1778829958.6138077
+  },
+  "Depository Receipts": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.615,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 14,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 378
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "DRs",
+        "shares",
+        "company",
+        "Depository",
+        "stock",
+        "Receipts",
+        "issue",
+        "listed",
+        "exchange",
+        "depository",
+        "underlying",
+        "bank"
+      ],
+      "compact_excerpt": "Depository Receipts Depository receipts (DRs) are financial instruments that represent shares of a local company but are listed and traded on a stock exchange outside the country. DRs are issued in foreign currency, usually in US Dollars. DRs allow overseas investors to easily invest in a company. To issue a DR, a specific quantity underlying equity shares of a company are lodged with a custodian "
+    },
+    "classified_at": 1778829957.5930948
+  },
+  "Stock Split and Consolidation": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.571,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 8,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 277
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "value",
+        "Rs",
+        "face",
+        "shares",
+        "Stock",
+        "Mr",
+        "Split",
+        "Consolidation",
+        "share",
+        "each",
+        "rsquo",
+        "holdings"
+      ],
+      "compact_excerpt": "Stock Split and Consolidation A company may decide to change the face value of its shares. This is done through stock split or consolidation methods. These methods change the number of outstanding shares. However, in both the cases, the value of the shares held by a shareholder remains unchanged. When a higher face value of a share is reduced to a lower face value, it is called a stock split. It i"
+    },
+    "classified_at": 1778829957.7212229
+  },
+  "Chapter 4: Sample Questions": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.582,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 96
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Chapter",
+        "Sample",
+        "Questions",
+        "Depository",
+        "Foreign",
+        "Stock",
+        "Voting",
+        "Dividend",
+        "commercial",
+        "residential",
+        "warrant",
+        "right"
+      ],
+      "compact_excerpt": "Chapter 4: Sample Questions A warrant is a right to subscribe to the _____ of a company. Deposit Equity shares Debentures Foreign Currency Convertible Bonds are used to raise capital in _____. The stocks that underlie a Depository Receipt (DR) issue are held by a __________. Holders of Depository Receipts do not have _______ rights. Real Estate Investment Trusts (REIT) invest in _____________ real"
+    },
+    "classified_at": 1778829957.7569444
+  },
+  "Exchange Traded Funds and Index Funds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.626,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 9,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 241
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Funds",
+        "Exchange",
+        "ETFs",
+        "Traded",
+        "Index",
+        "index",
+        "funds",
+        "market",
+        "ended",
+        "NAV",
+        "traded",
+        "stock"
+      ],
+      "compact_excerpt": "Exchange Traded Funds and Index Funds Exchange Traded Funds (ETFs) are a type of mutual funds that are listed and traded on a stock exchange. ETFs are passive funds that generate returns in line with the index or benchmark. There are no investment strategies used to generate higher returns other than what the index does. Index Funds are also passive funds but are not traded on stock exchanges. The"
+    },
+    "classified_at": 1778829957.8180726
+  },
+  "Foreign Currency Convertible Bonds": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.637,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 175
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Foreign",
+        "Currency",
+        "Convertible",
+        "Bonds",
+        "FCCBs",
+        "price",
+        "raise",
+        "debt",
+        "time",
+        "companies",
+        "foreign",
+        "currency"
+      ],
+      "compact_excerpt": "Foreign Currency Convertible Bonds Foreign Currency Convertible Bonds (FCCB) are issued by Indian companies and subscribed to by investors in foreign currency. They carry a fixed interest or coupon rate and are convertible into a certain number of ordinary shares at a preferred price. The payment of interest and repayment of principal (if required) is in foreign currency. The conversion price is u"
+    },
+    "classified_at": 1778829957.8869634
+  },
+  "Infrastructure Investment Trusts (InvITs)": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.648,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 88
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "InvITs",
+        "Infrastructure",
+        "Investment",
+        "Trusts",
+        "Rs",
+        "offer",
+        "shall",
+        "InvIT",
+        "initial",
+        "units",
+        "less",
+        "than"
+      ],
+      "compact_excerpt": "Infrastructure Investment Trusts (InvITs) InvITs are trusts registered with SEBI that invest in the infrastructure sector. The InvIT will raise funds from the public through an initial offer of units. The offer shall be for not less than Rs. 250 crores and the value of the proposed assets of the InvIT shall not be less than Rs. 500 crores. The minimum subscription amount in an initial and follow-o"
+    },
+    "classified_at": 1778829957.9587522
+  },
+  "Investment Trusts": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.659,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 51
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Investment",
+        "Trusts",
+        "funds",
+        "Trust",
+        "pools",
+        "investors",
+        "shareholders",
+        "invests",
+        "them",
+        "diversified",
+        "portfolio",
+        "securities"
+      ],
+      "compact_excerpt": "Investment Trusts An Investment Trust pools the funds of its investors/ shareholders and invests them in a diversified portfolio of securities. Investment Trusts are typically close ended funds which can be traded on a stock exchange. In Indian markets, 2 types of investment trusts are operational under the appropriate SEBI Regulations."
+    },
+    "classified_at": 1778829958.1608377
+  },
+  "Warrants": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.681,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 6,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 228
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Warrants",
+        "price",
+        "share",
+        "than",
+        "shares",
+        "company",
+        "warrant",
+        "which",
+        "exercised",
+        "Rs",
+        "market",
+        "investors"
+      ],
+      "compact_excerpt": "Warrants Warrants give the investors the right to buy shares of the company in the future. The number of shares that the warrant entitles the holder to subscribe to at a pre-determined date and price are specified at the time of issue. Conversion/ exercise of the warrants results in increase in share capital. Warrants may be traded on the stock exchange as a security separate from the debenture wi"
+    },
+    "classified_at": 1778829958.1722643
+  },
+  "Real Estate Investment Trusts (REITs)": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.67,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 106
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "REITs",
+        "Real",
+        "Estate",
+        "Investment",
+        "Trusts",
+        "offer",
+        "Rs",
+        "initial",
+        "assets",
+        "REIT",
+        "through",
+        "follow"
+      ],
+      "compact_excerpt": "Real Estate Investment Trusts (REITs) REITs are trusts registered with SEBI that invest in commercial real estate assets. The REIT will raise funds through an initial offer and subsequently through follow-on offers, rights issue and institutional placements. The value of the assets owned or proposed to be owned by a REIT coming out with an initial offer will not be less than Rs. 500 crore and the "
+    },
+    "classified_at": 1778829958.183573
+  },
+  "Contributors": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.703,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 3,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 110
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "business",
+        "capital",
+        "Contributors",
+        "brought",
+        "called",
+        "investors",
+        "debt",
+        "Funds",
+        "equity",
+        "Equity",
+        "outside",
+        "enable"
+      ],
+      "compact_excerpt": "Contributors Funds brought in by promoters and owners of the business are called equity capital. Equity capital can be brought in at the start of a business or at a later date as the business grows. Equity capital also can be contributed by outside investors. To enable such contribution, the business offers equity shares to outside investors, who become shareholders. Funds brought in as loan is ca"
+    },
+    "classified_at": 1778829958.2907124
+  },
+  "Chapter 1: Sample Questions": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.692,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 101
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Chapter",
+        "Sample",
+        "Questions",
+        "value",
+        "Equity",
+        "debt",
+        "Risk",
+        "capital",
+        "company",
+        "Both",
+        "interest",
+        "Market"
+      ],
+      "compact_excerpt": "Chapter 1: Sample Questions _______ capital is/are for perpetuity from the point of view of the company. Debt Equity Both debt and equity Equity capital gives returns to the investors in the form of: The interest that a company will have to pay on the debt raised will depend upon its_______. A debt instrument pays interest as a percentage of its ____________. Which of the following is a hybrid sec"
+    },
+    "classified_at": 1778829958.4933136
+  },
+  "Cost of Capital": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.725,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 1,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 132
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Cost",
+        "Capital",
+        "equity",
+        "debt",
+        "capital",
+        "company",
+        "rate",
+        "business",
+        "cost",
+        "interest",
+        "determined",
+        "case"
+      ],
+      "compact_excerpt": "Cost of Capital The business has to pay a price for using equity or debt capital. The cost may be fixed at the time the money is brought in and may constitute an obligation for the company. Debt instruments usually pay a periodic interest. The rate of interest may be pre-determined or the method by which the rate will be determined, as in the case of floating rate bonds and inflation indexed bonds"
+    },
+    "classified_at": 1778829958.542213
+  },
+  "Features of Debt Capital and Benefits to Debt Investors": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.736,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 12,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 377
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Debt",
+        "company",
+        "debt",
+        "interest",
+        "securities",
+        "such",
+        "Features",
+        "Capital",
+        "Benefits",
+        "Investors",
+        "capital",
+        "loan"
+      ],
+      "compact_excerpt": "Features of Debt Capital and Benefits to Debt Investors Debt capital refers to the borrowings of a company. The return to an investor from debt securities is primarily in the form of interest. Those that contribute debt capital are lenders or creditors of the company. Debt capital implies regular return and security for the investor. For the company there is an obligation to make periodic interest"
+    },
+    "classified_at": 1778829958.5875893
+  },
+  "Features of Equity Capital and Benefits to Equity Investors": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.747,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 35
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Equity",
+        "Features",
+        "Capital",
+        "Benefits",
+        "Investors",
+        "equity",
+        "company",
+        "Those",
+        "contribute",
+        "capital",
+        "shares",
+        "when"
+      ],
+      "compact_excerpt": "Features of Equity Capital and Benefits to Equity Investors Those who contribute equity capital to the company, buy equity shares, when they are issued by the company. They are called equity shareholders of the company."
+    },
+    "classified_at": 1778829958.6310072
+  },
+  "Hybrid Structures": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.758,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 23
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Hybrid",
+        "Structures",
+        "Companies",
+        "raise",
+        "capital",
+        "form",
+        "combines",
+        "features",
+        "both",
+        "debt",
+        "equity",
+        "These"
+      ],
+      "compact_excerpt": "Hybrid Structures Companies may raise capital in a form that combines the features of both debt and equity. These are called hybrid instruments."
+    },
+    "classified_at": 1778829958.8637109
+  },
+  "Introduction to Equity and Debt": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.769,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 148
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "funds",
+        "business",
+        "Introduction",
+        "Equity",
+        "Debt",
+        "money",
+        "equity",
+        "firm",
+        "Contribution",
+        "either",
+        "form",
+        "loan"
+      ],
+      "compact_excerpt": "Introduction to Equity and Debt A firm that requires money to conduct its operations can fund its requirements through: Contribution by owners (either in form of loan or equity) Contribution from outsiders (either in form of loan or equity) Businesses are typically created by promoters, who bring in the initial funds to start and nurture a business. Later as the business grows in size, the need fo"
+    },
+    "classified_at": 1778829958.892228
+  },
+  "Introduction to Securities": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.78,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 34
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Introduction",
+        "Securities",
+        "Features",
+        "Equity",
+        "Debt",
+        "Benefits",
+        "Capital",
+        "LEARNING",
+        "OBJECTIVES",
+        "After",
+        "studying",
+        "chapter"
+      ],
+      "compact_excerpt": "Introduction to Securities LEARNING OBJECTIVES: After studying this chapter, you should know about: Concept of Equity and Debt Features and Benefits of Equity Capital Features and Benefits of Debt Capital Features of Hybrid Instruments"
+    },
+    "classified_at": 1778829958.9352605
+  },
+  "Limited Liability": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.791,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 62
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Limited",
+        "Liability",
+        "equity",
+        "capital",
+        "limited",
+        "liability",
+        "their",
+        "shareholders",
+        "Equity",
+        "issued",
+        "means",
+        "creditors"
+      ],
+      "compact_excerpt": "Limited Liability Equity capital is issued with limited liability. This means, if the creditors to a business are not able to recover their dues, equity shareholders will not be asked to pay up. The liability of equity shareholders in a company is limited to their contribution made to its equity capital, or on any amount unpaid which they have agreed to pay."
+    },
+    "classified_at": 1778829958.9540787
+  },
+  "Liquidity": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.802,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 95
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Liquidity",
+        "company",
+        "IPO",
+        "market",
+        "shares",
+        "called",
+        "investors",
+        "Equity",
+        "first",
+        "issued",
+        "public",
+        "through"
+      ],
+      "compact_excerpt": "Liquidity Equity shares are first issued by a company to the public through a process called the Initial Public Offer (IPO). IPOs are made in primary market. The money raised in an IPO is used by the company for its business activities and reflected in the balance sheet of the company. After IPO, the shares are listed on the stock exchanges, where they can be traded between investors. This is call"
+    },
+    "classified_at": 1778829958.968965
+  },
+  "Perpetuity": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.824,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 42
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Perpetuity",
+        "company",
+        "shares",
+        "Equity",
+        "capital",
+        "perpetuity",
+        "cannot",
+        "redeemed",
+        "obligation",
+        "repay",
+        "special",
+        "situations"
+      ],
+      "compact_excerpt": "Perpetuity Equity capital is for perpetuity. It cannot be redeemed and the company does not have an obligation to repay it. In special situations, a company may buy-back its own shares from the shareholders. Such shares shall be extinguished by the company."
+    },
+    "classified_at": 1778829959.2430496
+  },
+  "Time Period": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.857,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 81
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Time",
+        "Period",
+        "period",
+        "capital",
+        "brought",
+        "firm",
+        "term",
+        "than",
+        "year",
+        "more",
+        "which",
+        "vary"
+      ],
+      "compact_excerpt": "Time Period The period for which capital is brought in may vary. Equity capital cannot be taken out of the firm unless the firm is liquidated. Such capital is for perpetuity. Debt has to be repaid by the company after a certain period. The period of repayment may be short-term (less than one year) or long-term (more than one year and may go up to even 30 years or more) and is decided at the time s"
+    },
+    "classified_at": 1778829959.303393
+  },
+  "Rights of the Contributors": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.846,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 80
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "rights",
+        "Rights",
+        "Contributors",
+        "capital",
+        "contributors",
+        "enjoy",
+        "investors",
+        "company",
+        "certain",
+        "obligations",
+        "depending",
+        "upon"
+      ],
+      "compact_excerpt": "Rights of the Contributors The contributors of capital enjoy certain rights and obligations depending upon the type of capital that they have brought in. Equity investors enjoy rights such as ownership and voting rights and rights to share the profits of the company. Debt investors have the right to receive periodic interest and return of the capital on the expiry of the fixed period. The contribu"
+    },
+    "classified_at": 1778829959.4277563
+  },
+  "About NISM Certifications": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.879,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 188
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "NISM",
+        "Certifications",
+        "Securities",
+        "About",
+        "securities",
+        "market",
+        "markets",
+        "Certification",
+        "CPE",
+        "Programmes",
+        "professionals",
+        "Institute"
+      ],
+      "compact_excerpt": "About NISM Certifications National Institute of Securities Markets (NISM) is a capacity building initiative of Securities and Exchange Board of India (SEBI), the securities market regulator. The Institute was established in 2006 pursuant to the Union Budget of 2005-06. NISM is engaged in developing and administering Certification Examinations and Continuing Professional Education (CPE) Programmes "
+    },
+    "classified_at": 1778829959.5903366
+  },
+  "Uncertain Pay-outs": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.868,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 76
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Uncertain",
+        "Pay",
+        "price",
+        "capital",
+        "dividends",
+        "appreciation",
+        "share",
+        "equity",
+        "outs",
+        "Shareholders",
+        "enjoy",
+        "return"
+      ],
+      "compact_excerpt": "Uncertain Pay-outs Shareholders enjoy return in the form of dividends paid by the company and may also benefit by the appreciation in share price. The investors can book capital gains by selling their shares in secondary market at a price higher than the acquisition price. If share price goes down, this may result in capital loss. However, there is no guarantee of dividends or capital appreciation"
+    },
+    "classified_at": 1778829959.6100545
+  },
+  "About the Certification Examination for Registrars to an Issue and Share Transfer Agents \u2013 Mutual Funds": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.89,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 1,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 61
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Registrars",
+        "Issue",
+        "Share",
+        "Transfer",
+        "Agents",
+        "About",
+        "Certification",
+        "Examination",
+        "Mutual",
+        "Funds",
+        "examination",
+        "seeks"
+      ],
+      "compact_excerpt": "About the Certification Examination for Registrars to an Issue and Share Transfer Agents \u2013 Mutual Funds The examination seeks to create a common minimum knowledge benchmark for persons working in Registrars to an Issue and Share Transfer Agents (R&T Agent) organizations in the mutual fund R&T function, in order to enable better quality investor service, operational process efficiency and risk cont"
+    },
+    "classified_at": 1778829959.6384425
+  },
+  "Acknowledgement": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.901,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 52
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Acknowledgement",
+        "NISM",
+        "Certification",
+        "ndash",
+        "Examination",
+        "workbook",
+        "developed",
+        "reviewed",
+        "team",
+        "coordination",
+        "Resource",
+        "Person"
+      ],
+      "compact_excerpt": "Acknowledgement This workbook has been developed and reviewed by the Certification team of NISM in coordination with its Resource Person &ndash; Mr. Ashwani Gupta. NISM gratefully acknowledges the contribution of the Examination Committee of NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents &ndash; Mutual Funds Certification Examination consisting of industry experts."
+    },
+    "classified_at": 1778829959.7673886
+  },
+  "Examination Objectives": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.934,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 47
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Examination",
+        "Objectives",
+        "Know",
+        "securities",
+        "RTAs",
+        "successful",
+        "completion",
+        "examination",
+        "candidate",
+        "should",
+        "basics",
+        "markets"
+      ],
+      "compact_excerpt": "Examination Objectives On successful completion of the examination the candidate should: Know the basics of securities and securities markets. Understand broadly the role and functions of the RTAs in the mutual fund issuance and transaction process. Know the regulatory environment in which the RTAs operate in India."
+    },
+    "classified_at": 1778829959.9660172
+  },
+  "Disclaimer": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.923,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 321
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "publication",
+        "NISM",
+        "information",
+        "material",
+        "Disclaimer",
+        "SEBI",
+        "herein",
+        "recommendation",
+        "statements",
+        "publishers",
+        "based",
+        "constitute"
+      ],
+      "compact_excerpt": "Disclaimer The contents of this publication do not necessarily constitute or imply its endorsement, recommendation, or favoring by the National Institute of Securities Market (NISM) or the Securities and Exchange Board of India (SEBI). This publication is meant for general reading and educational purpose only. It is not meant to serve as guide for investment. The views and opinions and statements "
+    },
+    "classified_at": 1778829959.985957
+  },
+  "FOREWORD": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.945,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 241
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "NISM",
+        "securities",
+        "FOREWORD",
+        "markets",
+        "certification",
+        "programs",
+        "professional",
+        "research",
+        "financial",
+        "various",
+        "examinations",
+        "market"
+      ],
+      "compact_excerpt": "FOREWORD NISM is a leading provider of high-end professional education, certifications, training and research in financial markets. NISM engages in capacity building among stakeholders in the securities markets, through professional education, financial literacy, enhancing governance standards and fostering policy research. The NISM certification programs aim at enhancing the quality and standards"
+    },
+    "classified_at": 1778829960.0094886
+  },
+  "How to register and take the examination": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.956,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 19
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "How",
+        "register",
+        "examination",
+        "take",
+        "find",
+        "more",
+        "please",
+        "visit",
+        "nism"
+      ],
+      "compact_excerpt": "How to register and take the examination To find out more and register for the examination please visit www.nism.ac.in"
+    },
+    "classified_at": 1778829960.1068811
+  },
+  "Assessment Structure": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.912,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 38
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Assessment",
+        "Structure",
+        "examination",
+        "consists",
+        "questions",
+        "mark",
+        "each",
+        "should",
+        "completed",
+        "hours",
+        "passing",
+        "score"
+      ],
+      "compact_excerpt": "Assessment Structure The examination consists of 100 questions of 1 mark each and should be completed in 2 hours. The passing score for the examination is 50 percent. There shall be NO Negative Marking in this certification examination."
+    },
+    "classified_at": 1778829960.1250834
+  },
+  "Workbook for NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents \u2013Mutual Funds Certification Examination": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.989,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 115
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "NISM",
+        "Workbook",
+        "Registrars",
+        "Issue",
+        "Share",
+        "Transfer",
+        "Agents",
+        "Mutual",
+        "Certification",
+        "Examination",
+        "Series",
+        "II"
+      ],
+      "compact_excerpt": "Workbook for NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents \u2013Mutual Funds Certification Examination National Institute of Securities Market www.nism.ac.in This workbook has been developed to assist candidates in preparing for the National Institute of Securities Markets (NISM) Certification Examination for Registrars to an Issue and Share Transfer Agents &ndash;Mutual Fund. Wor"
+    },
+    "classified_at": 1778829960.3447483
+  },
+  "NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents - Mutual Fund Certification Examination": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.978,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 118
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Unit",
+        "Mutual",
+        "Registrars",
+        "Transfer",
+        "Agents",
+        "Fund",
+        "Funds",
+        "NISM",
+        "Series",
+        "II",
+        "Issue",
+        "Share"
+      ],
+      "compact_excerpt": "NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents - Mutual Fund Certification Examination Syllabus Outline and Weightages Unit No. Unit Name Weightage (%) Unit 1 Introduction to Securities 20 Unit 2 Characteristic of Equities Unit 3 Characteristics of Debt Securities Unit 4 Characteristics of Other Securities Unit 5 SEBI- Role and Regulations Unit 6 Basics of Registrars and Transf"
+    },
+    "classified_at": 1778829960.3614264
+  },
+  "Important": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.967,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 59
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Important",
+        "Please",
+        "note",
+        "Test",
+        "Centre",
+        "workstations",
+        "equipped",
+        "either",
+        "Microsoft",
+        "Excel",
+        "OpenOffice",
+        "Calc"
+      ],
+      "compact_excerpt": "Important Please note that the Test Centre workstations are equipped with either Microsoft Excel or OpenOffice Calc. Therefore, candidates are advised to be well versed with both of these software for computation of numerical. The sample questions and the examples discussed in the workbook are for reference purposes only. The level of difficulty may vary in the actual examination."
+    },
+    "classified_at": 1778829960.3719754
+  }
+}

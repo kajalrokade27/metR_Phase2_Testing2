@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4328" xml:lang="en-us">
+  <title>Asset-backed Securities</title>
+  <shortdesc>Asset backed securities represent a class of fixed income products, created out of pooling together</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>backed</keyword>
+        <keyword>bonds</keyword>
+        <keyword>Asset</keyword>
+        <keyword>securities</keyword>
+        <keyword>represent</keyword>
+        <keyword>Securities</keyword>
+        <indexterm>backed</indexterm>
+        <indexterm>bonds</indexterm>
+        <indexterm>Asset</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Asset backed securities represent a class of fixed income products, created out of pooling together assets, and creating bonds that represent participation in the cash flows from the asset pool. For example, select housing loans of a loan originator (say, a housing finance company) can be pooled, and bonds can be created, which represent a claim on the repayments made by home loan borrowers. Such bonds are called mortgage&amp;ndash;backed securities. In some markets like India, these bonds are known as structured obligations (SO). Assets with regular streams of cash flows are ideally suited for creating asset-backed securities.</p>
+  </conbody>
+</concept>

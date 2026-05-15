@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5444" xml:lang="en-us">
+  <title>Infrastructure Investment Trusts (InvITs)</title>
+  <shortdesc>InvITs are trusts registered with SEBI that invest in the infrastructure sector. The InvIT will</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>InvITs</keyword>
+        <keyword>offer</keyword>
+        <keyword>shall</keyword>
+        <keyword>Infrastructure</keyword>
+        <keyword>Investment</keyword>
+        <keyword>Trusts</keyword>
+        <indexterm>InvITs</indexterm>
+        <indexterm>offer</indexterm>
+        <indexterm>shall</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>InvITs are trusts registered with SEBI that invest in the infrastructure sector. The InvIT will raise funds from the public through an initial offer of units. The offer shall be for not less than Rs. 250 crores and the value of the proposed assets of the InvIT shall not be less than Rs. 500 crores. The minimum subscription amount in an initial and follow-on offer shall be in the range of Rs. 10,000 to Rs. 15,000.  The units are listed on a stock exchange.</p>
+  </conbody>
+</concept>

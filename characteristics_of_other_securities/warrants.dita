@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4985" xml:lang="en-us">
+  <title>Warrants</title>
+  <shortdesc>give the investors the right to buy shares of the company in the future. The</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Warrants</keyword>
+        <keyword>price</keyword>
+        <keyword>share</keyword>
+        <keyword>shares</keyword>
+        <keyword>company</keyword>
+        <keyword>warrant</keyword>
+        <indexterm>Warrants</indexterm>
+        <indexterm>price</indexterm>
+        <indexterm>share</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Warrants give the investors the right to buy shares of the company in the future. The number of shares that the warrant entitles the holder to subscribe to at a pre-determined date and price are specified at the time of issue. Conversion/ exercise of the warrants results in increase in share capital. Warrants may be traded on the stock exchange as a security separate from the debenture with which it was issued. Warrants usually have a longer lifetime as compared to options contracts which they closely resemble.</p>
+    <p>Warrants will be exercised if the share price at the time of exercise is higher than the price at which the investors have the right/ option to buy the shares. For example, assume a warrant enables an investor to buy an equity share of a company at Rs.100. The warrant will be exercised: (a) when it is due to be exercised, (b) if the price of the share in the market is more than Rs.100. If the market price is less than Rs.100, the investor can always buy from the market, rather than use the option to buy the same share at a higher price.</p>
+    <p>Warrants may be used by promoters to increase their stake in the company. Issue of warrants is subject to SEBI guidelines and shareholders&amp;rsquo; approval. The regulations include an upfront payment and a lock-in on conversion.</p>
+  </conbody>
+</concept>

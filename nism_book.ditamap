@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="nism_book" xml:lang="en-us">
+  <booktitle>
+    <mainbooktitle>NISM Book</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <critdates>
+      <created date="2026-03-24" />
+    </critdates>
+  </bookmeta>
+  <chapter navtitle="Workbook for NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents &amp;ndash;Mutual Funds Certification Examination">
+    <mapref href="workbook_for_nism_series_ii_b_registrars_to_an_issue_and_share_transfer_agents_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Introduction to Securities">
+    <mapref href="introduction_to_securities_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Characteristics of Equity Shares">
+    <mapref href="characteristics_of_equity_shares_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Characteristics of Debt Securities">
+    <mapref href="characteristics_of_debt_securities_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Characteristics of Other Securities">
+    <mapref href="characteristics_of_other_securities_map.ditamap" format="ditamap" />
+  </chapter>
+</bookmap>

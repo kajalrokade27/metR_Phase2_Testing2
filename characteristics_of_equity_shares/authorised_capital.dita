@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3037" xml:lang="en-us">
+  <title>Authorised Capital</title>
+  <shortdesc>The maximum amount of equity capital that a company will have is defined in the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Authorised</keyword>
+        <keyword>Capital</keyword>
+        <keyword>capital</keyword>
+        <keyword>company</keyword>
+        <keyword>maximum</keyword>
+        <keyword>amount</keyword>
+        <indexterm>Authorised</indexterm>
+        <indexterm>Capital</indexterm>
+        <indexterm>capital</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The maximum amount of equity capital that a company will have is defined in the Memorandum of Association (MoA) of the company and is called its authorised capital.</p>
+  </conbody>
+</concept>

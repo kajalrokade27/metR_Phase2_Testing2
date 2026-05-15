@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4091" xml:lang="en-us">
+  <title>Convertible Debt Securities</title>
+  <shortdesc>As already discussed in Unit 1, convertible debt securities are hybrid instruments with features both</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>securities</keyword>
+        <keyword>equity</keyword>
+        <keyword>converted</keyword>
+        <keyword>lower</keyword>
+        <keyword>Convertible</keyword>
+        <keyword>Debt</keyword>
+        <indexterm>securities</indexterm>
+        <indexterm>equity</indexterm>
+        <indexterm>converted</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>As already discussed in Unit 1, convertible debt securities are hybrid instruments with features both of debt and equity. These securities pay the pre-determined coupon payments to the holders and on maturity the same is converted into equity based on pre-defined terms. The convertible debt securities are more suitable for low credit rating companies and companies with high growth potentials.</p>
+    <p>Advantage to Issuers : As it is a low cost financing compared to other financing means, issuers are required to pay lower coupons to the lenders and also on maturity, repayment of principal amount need not be made as the security is converted into equity.</p>
+    <p>Advantage to Investors : Though the investors are paid a lower coupon rate, compared to other debt securities, the potential to earn capital appreciation on the converted security (equity) compensates the receipt of lower interest rate.</p>
+    <p>However, there involves a risk of dilution of stake of the existing shareholders in the company on conversion of the debt securities.</p>
+  </conbody>
+</concept>

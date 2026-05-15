@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2616" xml:lang="en-us">
+  <title>Right to Dividend</title>
+  <shortdesc>Ownership rights in a company also mean that the investors who hold equity shares are</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>company</keyword>
+        <keyword>Right</keyword>
+        <keyword>Dividend</keyword>
+        <keyword>Ownership</keyword>
+        <keyword>rights</keyword>
+        <keyword>investors</keyword>
+        <indexterm>company</indexterm>
+        <indexterm>Right</indexterm>
+        <indexterm>Dividend</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Ownership rights in a company also mean that the investors who hold equity shares are entitled to participate in the profits of the company. This participation will be in the form of dividends that are periodically declared by the company.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3388" xml:lang="en-us">
+  <title>Buyback of shares</title>
+  <shortdesc>refers to repurchase of shares by the company from its existing shareholders. During the buyback,</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>shares</keyword>
+        <keyword>Buyback</keyword>
+        <keyword>company</keyword>
+        <keyword>buyback</keyword>
+        <keyword>shareholders</keyword>
+        <keyword>share</keyword>
+        <indexterm>shares</indexterm>
+        <indexterm>Buyback</indexterm>
+        <indexterm>company</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Buyback of shares refers to repurchase of shares by the company from its existing shareholders. During the buyback, the company usually offers a higher price to the shareholders. However, participation in a share buyback is voluntary. The shares acquired by a company in buyback are extinguished and this results in reduction of share capital. Buyback of securities are governed by SEBI (Buy-Back of Securities) Regulations, 2018.</p>
+  </conbody>
+</concept>

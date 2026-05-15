@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1196" xml:lang="en-us">
+  <title>NISM-Series-II-B: Registrars to an Issue and Share Transfer Agents - Mutual Fund Certification Examination</title>
+  <shortdesc>Syllabus Outline and Weightages</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Unit</keyword>
+        <keyword>Mutual</keyword>
+        <keyword>Funds</keyword>
+        <keyword>Registrars</keyword>
+        <keyword>Transfer</keyword>
+        <keyword>Agents</keyword>
+        <indexterm>Unit</indexterm>
+        <indexterm>Mutual</indexterm>
+        <indexterm>Funds</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>
+        <b>Syllabus Outline and Weightages</b>
+      </p>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>Unit No.</entry>
+              <entry>Unit Name</entry>
+              <entry>Weightage (%)</entry>
+            </row>
+            <row>
+              <entry>Unit 1</entry>
+              <entry>Introduction to Securities</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>Unit 2</entry>
+              <entry>Characteristic of Equities</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 3</entry>
+              <entry>Characteristics of Debt Securities</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 4</entry>
+              <entry>Characteristics of Other Securities</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 5</entry>
+              <entry>SEBI- Role and Regulations</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 6</entry>
+              <entry>Basics of Registrars and Transfer Agents</entry>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry>Unit 7</entry>
+              <entry>Registrars and Transfer Agents Regulations</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 8</entry>
+              <entry>Basics of Mutual Funds</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 9</entry>
+              <entry>Structure and Constituents of Mutual Funds</entry>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry>Unit 10</entry>
+              <entry>Mutual Fund Products</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 11</entry>
+              <entry>Operational Concepts of Mutual Funds</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 12</entry>
+              <entry>Investors in Mutual Funds</entry>
+              <entry>30</entry>
+            </row>
+            <row>
+              <entry>Unit 13</entry>
+              <entry>Banking Operations in Mutual Funds</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 14</entry>
+              <entry>Financial Transactions</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Unit 15</entry>
+              <entry>Non-Financial Transactions</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>

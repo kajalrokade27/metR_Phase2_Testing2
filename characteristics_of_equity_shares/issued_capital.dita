@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3072" xml:lang="en-us">
+  <title>Issued Capital</title>
+  <shortdesc>The company may issue a portion of its authorised capital as and when it requires</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>capital</keyword>
+        <keyword>issued</keyword>
+        <keyword>value</keyword>
+        <keyword>Issued</keyword>
+        <keyword>Capital</keyword>
+        <keyword>company</keyword>
+        <indexterm>capital</indexterm>
+        <indexterm>issued</indexterm>
+        <indexterm>value</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The company may issue a portion of its authorised capital as and when it requires capital. The capital may be issued to the promoters, public or to specified investors. The portion of authorised capital that has been issued to investors is called issued capital.</p>
+    <p>The capital may be issued by the company either at its face value or at a premium (higher than the face value). In special cases shares may be issued at a discount (lower than the face value).</p>
+  </conbody>
+</concept>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1529" xml:lang="en-us">
+  <title>Introduction to Equity and Debt</title>
+  <shortdesc>A firm that requires money to conduct its operations can fund its requirements through:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>funds</keyword>
+        <keyword>business</keyword>
+        <keyword>money</keyword>
+        <keyword>equity</keyword>
+        <keyword>Introduction</keyword>
+        <keyword>Equity</keyword>
+        <indexterm>funds</indexterm>
+        <indexterm>business</indexterm>
+        <indexterm>money</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A firm that requires money to conduct its operations can fund its requirements through:</p>
+    <ul id="ul_07255203">
+      <li>Contribution by owners (either in form of loan or equity)</li>
+      <li>Contribution from outsiders (either in form of loan or equity)</li>
+    </ul>
+    <p>Businesses are typically created by promoters, who bring in the initial funds to start and nurture a business. Later as the business grows in size, the need for money can be met by additional funds brought in by the owner(s) or contributions from outsiders (public). Similarly, an investor has a choice of owning a business by contributing to equity capital or lending to a business as debt capital.</p>
+    <p>Capital used in running a business can be primarily classified based on:</p>
+    <ul id="ul_07255204">
+      <li>The contributors of funds</li>
+      <li>The period for which money is contributed</li>
+      <li>The cost of the funds to the firm</li>
+      <li>The rights that accrue to the contributors of the funds</li>
+    </ul>
+  </conbody>
+</concept>

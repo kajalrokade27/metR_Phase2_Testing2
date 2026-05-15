@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4258" xml:lang="en-us">
+  <title>Inflation Indexed Bonds</title>
+  <shortdesc>(IIB) are a category of floating rate bonds where the benchmark is the inflation rate.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Inflation</keyword>
+        <keyword>Indexed</keyword>
+        <keyword>Bonds</keyword>
+        <keyword>inflation</keyword>
+        <keyword>category</keyword>
+        <keyword>floating</keyword>
+        <indexterm>Inflation</indexterm>
+        <indexterm>Indexed</indexterm>
+        <indexterm>Bonds</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Inflation Indexed Bonds (IIB) are a category of floating rate bonds where the benchmark is the inflation rate. Such instruments are generally government securities issued by the RBI that provides inflation protected returns to the investors.</p>
+  </conbody>
+</concept>

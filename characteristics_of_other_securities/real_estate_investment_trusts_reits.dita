@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5405" xml:lang="en-us">
+  <title>Real Estate Investment Trusts (REITs)</title>
+  <shortdesc>REITs are trusts registered with SEBI that invest in commercial real estate assets. The REIT</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>offer</keyword>
+        <keyword>REITs</keyword>
+        <keyword>initial</keyword>
+        <keyword>Real</keyword>
+        <keyword>Estate</keyword>
+        <keyword>Investment</keyword>
+        <indexterm>offer</indexterm>
+        <indexterm>REITs</indexterm>
+        <indexterm>initial</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>REITs are trusts registered with SEBI that invest in commercial real estate assets. The REIT will raise funds through an initial offer and subsequently through follow-on offers, rights issue and institutional placements. The value of the assets owned or proposed to be owned by a REIT coming out with an initial offer will not be less than Rs. 500 crore and the minimum offer size will not be less than Rs.250 crore. The minimum subscription amount in an initial and follow-on offer shall be in the range of Rs. 10,000 to Rs. 15,000.  The units are listed on the stock exchange.</p>
+  </conbody>
+</concept>

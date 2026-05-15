@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1966" xml:lang="en-us">
+  <title>Features of Debt Capital and Benefits to Debt Investors</title>
+  <shortdesc>Debt capital refers to the borrowings of a company. The return to an investor from</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Debt</keyword>
+        <keyword>company</keyword>
+        <keyword>interest</keyword>
+        <keyword>securities</keyword>
+        <keyword>capital</keyword>
+        <keyword>secured</keyword>
+        <indexterm>Debt</indexterm>
+        <indexterm>company</indexterm>
+        <indexterm>interest</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Debt capital refers to the borrowings of a company. The return to an investor from debt securities is primarily in the form of interest. Those that contribute debt capital are lenders or creditors of the company. Debt capital implies regular return and security for the investor. For the company there is an obligation to make periodic interest payments and to repay the capital on maturity. A debt instrument pays interest as a percentage of its face value. The tenor of a debt instrument is fixed in advance.</p>
+    <p>Debt is raised by companies either by issuing securities such as debentures, bonds and commercial papers to the lenders or by taking a loan from a bank or financial institution. The terms at which the borrowing is being made, are mentioned in the document (or certificate) that represents the debt.</p>
+    <p>Debt is raised by the company for a fixed period after which it has to be repaid. The period of borrowing will vary depending upon the need of the company. The interest rate or coupon rate of a bond/ debenture depends on the risk of default associated with the company issuing such securities. The risk that a debt instrument may default on its interest payments is called credit risk. Credit rating of the debt security by SEBI registered Credit Rating Agency forms an important factor while investing in such securities.</p>
+    <p>Debt securities/ loans have differential rights such as secured or unsecured. A secured loan is one where lenders have a right against the assets of the company if the company fails to pay interest and/or return the principal amount borrowed. Unsecured loan is one where such rights do not exist. Debt instruments may be listed on a stock exchange.</p>
+    <p>A bond or debenture will be defined by:</p>
+    <ul id="ul_07255205">
+      <li>Face value</li>
+      <li>Interest rate (also called coupon rate) and Frequency of interest payment</li>
+      <li>Date of Maturity/ Redemption</li>
+      <li>Other Rights of Bondholders (secured / unsecured)</li>
+    </ul>
+    <p>A loan from a Bank or Financial Institution will be defined by:</p>
+    <ul id="ul_07255206">
+      <li>Amount of the Loan</li>
+      <li>Interest Rate and Frequency of Payment</li>
+      <li>Nature of Loan (Term Loan, overdraft limit, bill discounting etc.)</li>
+      <li>Repayment Conditions and Time Line (As Negotiated between Borrower and Lender)</li>
+      <li>Other Rights of Lender (secured / unsecured)</li>
+    </ul>
+  </conbody>
+</concept>

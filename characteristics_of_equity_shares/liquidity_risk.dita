@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2830" xml:lang="en-us">
+  <title>Liquidity Risk</title>
+  <shortdesc>A shareholder has the right to sell his shares to other investors. However, there may</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>shares</keyword>
+        <keyword>Liquidity</keyword>
+        <keyword>Risk</keyword>
+        <keyword>shareholder</keyword>
+        <keyword>price</keyword>
+        <keyword>value</keyword>
+        <indexterm>shares</indexterm>
+        <indexterm>Liquidity</indexterm>
+        <indexterm>Risk</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A shareholder has the right to sell his shares to other investors. However, there may be a difference between the price expected by the seller and the price offered by the potential buyer. This is referred to as &amp;ldquo;bid ask spread&amp;rdquo; or liquidity risk.</p>
+    <p>The risk to the shareholder arises if the shares are illiquid and not easily sold at its market value or if the shares are unlisted. The investor&amp;rsquo;s investment may get stuck without an exit option or they may sell their shares at lower than fair value resulting in loss.</p>
+  </conbody>
+</concept>

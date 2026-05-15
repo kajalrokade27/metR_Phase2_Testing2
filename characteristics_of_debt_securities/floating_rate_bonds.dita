@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4218" xml:lang="en-us">
+  <title>Floating Rate Bonds</title>
+  <shortdesc>Instead of a pre-determined rate at which coupons are paid, it is possible to structure</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>bonds</keyword>
+        <keyword>reset</keyword>
+        <keyword>Rate</keyword>
+        <keyword>benchmark</keyword>
+        <keyword>coupon</keyword>
+        <keyword>floating</keyword>
+        <indexterm>bonds</indexterm>
+        <indexterm>reset</indexterm>
+        <indexterm>Rate</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Instead of a pre-determined rate at which coupons are paid, it is possible to structure bonds, where the rate of interest is reset periodically, based on a benchmark rate such as RBI Repo Rate. Such bonds whose coupon rate is not fixed, but reset with reference to a benchmark rate, are called floating rate bonds.</p>
+    <p>For example, a company can issue a 5 year floating rate bond, with the rates being reset semiannually with reference to the 1- year yield on central government securities and a 50 basis point mark-up. In this bond, the coupon rate is reset every six months based on the 1-year benchmark rate on government securities.</p>
+    <p>The other names, by which floating rate bonds are known, are variable rate bonds and adjustable rate bonds. These terms are generally used in the case of bonds whose coupon rates are reset at longer time intervals of a year and above. These bonds are common in the housing loan markets.</p>
+  </conbody>
+</concept>

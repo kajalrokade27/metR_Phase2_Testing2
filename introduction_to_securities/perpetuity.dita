@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1895" xml:lang="en-us">
+  <title>Perpetuity</title>
+  <shortdesc>Equity capital is for perpetuity. It cannot be redeemed and the company does not have</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>company</keyword>
+        <keyword>Perpetuity</keyword>
+        <keyword>shares</keyword>
+        <keyword>Equity</keyword>
+        <keyword>capital</keyword>
+        <keyword>perpetuity</keyword>
+        <indexterm>company</indexterm>
+        <indexterm>Perpetuity</indexterm>
+        <indexterm>shares</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Equity capital is for perpetuity. It cannot be redeemed and the company does not have an obligation to repay it. In special situations, a company may buy-back its own shares from the shareholders. Such shares shall be extinguished by the company.</p>
+  </conbody>
+</concept>

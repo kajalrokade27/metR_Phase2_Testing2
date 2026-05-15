@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3462" xml:lang="en-us">
+  <title>Stock Split and Consolidation</title>
+  <shortdesc>A company may decide to change the face value of its shares. This is done</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>value</keyword>
+        <keyword>shares</keyword>
+        <keyword>Stock</keyword>
+        <keyword>share</keyword>
+        <keyword>Split</keyword>
+        <keyword>Consolidation</keyword>
+        <indexterm>value</indexterm>
+        <indexterm>shares</indexterm>
+        <indexterm>Stock</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A company may decide to change the face value of its shares. This is done through stock split or consolidation methods. These methods change the number of outstanding shares. However, in both the cases, the value of the shares held by a shareholder remains unchanged.</p>
+    <p>When a higher face value of a share is reduced to a lower face value, it is called a stock split. It increases the number of shares in the hands of an investor, but reduces the face value of each share.</p>
+    <p>
+      <b>Example:</b> Mr. L holds 100 shares of face value Rs. 10 of ABC Ltd. The company decides to divide each share into 2 shares with face value of Rs. 5 each.</p>
+    <p>Before Stock Split: Value of Mr. L&amp;rsquo;s holdings is Rs. 1000 (i.e. Rs. 10 x 100)</p>
+    <p>After Stock Split: Mr. L will now hold 200 shares of face value Rs. 5. Therefore, value of Mr. L&amp;rsquo;s holdings is Rs. 1000 (i.e. Rs. 5 x 200).</p>
+    <p>A consolidation refers to increasing the face value of a share from lower amount to higher amount. This reduces the number of shares held by an investor, but increases the face value of each share.</p>
+    <p>
+      <b>Example:</b> Mr. S holds 100 shares of face value Rs. 2 of XYZ Ltd. The company decides to club 5 shares into 1 share with face value of Rs. 10 each.</p>
+    <p>Before Stock Consolidation: Value of Mr. S&amp;rsquo;s holdings is Rs. 200 (i.e. Rs. 2 x 100)</p>
+    <p>After Stock Consolidation: Mr. S will now hold 20 shares of face value Rs. 10. Therefore, value of Mr. S&amp;rsquo;s holdings is Rs. 200 (i.e. Rs. 10 x 20).</p>
+  </conbody>
+</concept>

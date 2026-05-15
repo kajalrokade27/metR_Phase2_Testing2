@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1779" xml:lang="en-us">
+  <title>Limited Liability</title>
+  <shortdesc>Equity capital is issued with limited liability. This means, if the creditors to a business</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>equity</keyword>
+        <keyword>Limited</keyword>
+        <keyword>Liability</keyword>
+        <keyword>capital</keyword>
+        <keyword>limited</keyword>
+        <keyword>liability</keyword>
+        <indexterm>equity</indexterm>
+        <indexterm>Limited</indexterm>
+        <indexterm>Liability</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Equity capital is issued with limited liability. This means, if the creditors to a business are not able to recover their dues, equity shareholders will not be asked to pay up. The liability of equity shareholders in a company is limited to their contribution made to its equity capital, or on any amount unpaid which they have agreed to pay.</p>
+  </conbody>
+</concept>

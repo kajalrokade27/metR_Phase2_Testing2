@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4293" xml:lang="en-us">
+  <title>Amortising Bonds</title>
+  <shortdesc>The structure of some bonds may be such that the principal is not repaid at</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>amortising</keyword>
+        <keyword>principal</keyword>
+        <keyword>loans</keyword>
+        <keyword>Amortising</keyword>
+        <keyword>Bonds</keyword>
+        <keyword>bonds</keyword>
+        <indexterm>amortising</indexterm>
+        <indexterm>principal</indexterm>
+        <indexterm>loans</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The structure of some bonds may be such that the principal is not repaid at the end/maturity, but over the life of the bond. A bond in which payments that are made by the borrower includes both interest and principal, is called an amortising bond. Auto loans, consumer loans and home loans are examples of amortising bonds. The maturity of the amortising bond refers only to the last payment in the amortising schedule, because the principal is repaid over time i.e. redemption in more than one instalment.</p>
+  </conbody>
+</concept>

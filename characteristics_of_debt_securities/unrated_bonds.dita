@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4684" xml:lang="en-us">
+  <title>Unrated Bonds</title>
+  <shortdesc>Bonds that do not have any current or valid rating by an external rating agency</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>unrated</keyword>
+        <keyword>instruments</keyword>
+        <keyword>Bonds</keyword>
+        <keyword>Unrated</keyword>
+        <keyword>rating</keyword>
+        <keyword>current</keyword>
+        <indexterm>unrated</indexterm>
+        <indexterm>instruments</indexterm>
+        <indexterm>Bonds</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Bonds that do not have any current or valid rating by an external rating agency are unrated bonds. Since unrated instruments are more illiquid than rated instruments, the yield of such unrated instruments is higher. SEBI has provided guidelines for mutual funds on investments in unrated debt instruments.</p>
+  </conbody>
+</concept>

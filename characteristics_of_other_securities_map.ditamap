@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="characteristics_of_other_securities_map" xml:lang="en-us">
+  <title>Characteristics of Other Securities</title>
+  <topicref href="characteristics_of_other_securities/characteristics_of_other_securities.dita" navtitle="Characteristics of Other Securities" />
+  <topicref href="characteristics_of_other_securities/warrants.dita" navtitle="Warrants" />
+  <topicref href="characteristics_of_other_securities/convertible_debentures_2.dita" navtitle="Convertible Debentures" />
+  <topicref href="characteristics_of_other_securities/depository_receipts.dita" navtitle="Depository Receipts" />
+  <topicref href="characteristics_of_other_securities/foreign_currency_convertible_bonds.dita" navtitle="Foreign Currency Convertible Bonds" />
+  <topicref href="characteristics_of_other_securities/exchange_traded_funds_and_index_funds.dita" navtitle="Exchange Traded Funds and Index Funds" />
+  <topicref href="characteristics_of_other_securities/investment_trusts.dita" navtitle="Investment Trusts" chunk="to-content">
+    <topicref href="characteristics_of_other_securities/real_estate_investment_trusts_reits.dita" navtitle="Real Estate Investment Trusts (REITs)" />
+    <topicref href="characteristics_of_other_securities/infrastructure_investment_trusts_invits.dita" navtitle="Infrastructure Investment Trusts (InvITs)" />
+    <topicref href="characteristics_of_other_securities/chapter_4_sample_questions.dita" navtitle="Chapter 4: Sample Questions" />
+  </topicref>
+</map>
